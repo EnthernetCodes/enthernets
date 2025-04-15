@@ -1,0 +1,40 @@
+[THREAD] Background scraper started for niche: wires, pages: 1
+[RUN] Scraper started...
+[ERROR] Scraping failed: Message: Service /usr/bin/chromedriver unexpectedly exited. Status code was: 1
+
+[THREAD] Background scraper started for niche: rubber, pages: 1
+[RUN] Scraper started...
+[ERROR] Scraping failed: Message: Service /usr/bin/chromedriver unexpectedly exited. Status code was: 1
+
+[THREAD] Background scraper started for niche: rubber, pages: 1
+[RUN] Scraper started...
+[ERROR] Scraping failed: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+[THREAD] Background scraper started for niche: metals, pages: 1
+[RUN] Scraper started...
+[ERROR] Scraping failed: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+[THREAD] Background scraper started for niche: metals, pages: 1
+[RUN] Scraper started...
+[ERROR] Scraping failed: Message: Service /usr/bin/chromedriver unexpectedly exited. Status code was: 1
+
+[THREAD] Background scraper started for niche: metals, pages: 1
+[RUN] Scraper started...
+[ERROR] Scraping failed: Message: Service /usr/bin/chromedriver unexpectedly exited. Status code was: 1
+
+[THREAD] Background scraper started for niche: keys, pages: 1
+[RUN] Scraper started...
+[ERROR] Scraping failed: Message: Service /usr/bin/chromedriver unexpectedly exited. Status code was: 1
+
+[THREAD] Background scraper started for niche: keys, pages: 1
+[RUN] Scraper started...
+[ERROR] Scraping failed: Message: Service /usr/bin/chromedriver unexpectedly exited. Status code was: 1
+
+[THREAD] Background scraper started for niche: rubber, pages: 1
+[RUN] Scraper started...
+[ERROR] Scraping failed: Message: Service /usr/bin/chromedriver unexpectedly exited. Status code was: 1
+
+[THREAD] Background scraper started for niche: rubber, pages: 1
+[RUN] Scraper started...
+[ERROR] Scraping failed: Message: Service /usr/bin/chromedriver unexpectedly exited. Status code was: 1
+

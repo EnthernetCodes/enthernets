@@ -1,3 +1,4 @@
+from flask import jsonify
 import requests
 from bs4 import BeautifulSoup
 from tqdm import tqdm
@@ -6,13 +7,19 @@ import csv
 import json
 import os
 import re
+from filelock import FileLock
 
 from mn import EuropagesScraper  # importing your class from mn.py
 
 # ======= File Handling =======
 def save_json(data, filename):
-    with open(filename, "w") as file:
-        json.dump(data, file, indent=4)
+    lock_dir = "locks"
+    os.makedirs(lock_dir, exist_ok=True)
+    lock_path = os.path.join(lock_dir, f"{filename}.lock")
+
+    with FileLock(lock_path):
+        with open(filename, "w") as file:
+            json.dump(data, file, indent=4)
 
 def load_json(filename):
     if os.path.exists(filename):
@@ -101,7 +108,8 @@ def run_scraper(niche, max_pages, log=print):
         log("[RUN] No company websites found. Exiting early.")
         return []
 
-    results = scrape_company_details(scraper.company_websites, niche, session=session, log=log)
+#    results = scrape_company_details(scraper.company_websites, niche, session=session, log=log)
+    results = scrape_company_details(session, scraper.company_websites, niche)
     return results
 
     '''

@@ -1,0 +1,1658 @@
+[2025-04-13 05:58:28,997] 197.210.54.138 - - [13/Apr/2025 05:58:28] "[32mPOST /extractor HTTP/1.1[0m" 302 -
+[2025-04-13 05:58:28,998] [THREAD] Background scraper started for niche: wires, pages: 1
+[2025-04-13 05:58:28,999] [RUN] Scraper started...
+[2025-04-13 05:58:29,578] 197.210.54.138 - - [13/Apr/2025 05:58:29] "GET /results/wires HTTP/1.1" 200 -
+[2025-04-13 05:58:30,086] 197.210.54.138 - - [13/Apr/2025 05:58:30] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 05:58:32,217] 197.210.54.138 - - [13/Apr/2025 05:58:32] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 05:58:33,984] 197.210.54.138 - - [13/Apr/2025 05:58:33] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 05:58:36,297] 197.210.54.138 - - [13/Apr/2025 05:58:36] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 05:58:37,990] 197.210.54.138 - - [13/Apr/2025 05:58:37] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 05:58:40,291] 197.210.54.138 - - [13/Apr/2025 05:58:40] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 05:58:41,993] 197.210.54.138 - - [13/Apr/2025 05:58:41] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 05:58:44,227] 197.210.54.138 - - [13/Apr/2025 05:58:44] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 05:58:45,991] 197.210.54.138 - - [13/Apr/2025 05:58:45] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 05:58:48,294] 197.210.54.138 - - [13/Apr/2025 05:58:48] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 05:58:49,010] [RUN] Collected 30 profile links.
+[2025-04-13 05:58:50,013] 197.210.54.138 - - [13/Apr/2025 05:58:50] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 05:58:52,287] 197.210.54.138 - - [13/Apr/2025 05:58:52] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 05:58:53,988] 197.210.54.138 - - [13/Apr/2025 05:58:53] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 05:58:56,290] 197.210.54.138 - - [13/Apr/2025 05:58:56] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 05:58:57,987] 197.210.54.138 - - [13/Apr/2025 05:58:57] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 06:08:00,515] [RUN] Collected 28 company websites.
+[2025-04-13 06:08:50,949] [ERROR] Scraping failed: object of type 'NoneType' has no len()
+[2025-04-13 06:14:36,837] 197.210.54.138 - - [13/Apr/2025 06:14:36] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 06:14:37,100] 197.210.54.138 - - [13/Apr/2025 06:14:37] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 06:14:38,560] 197.210.54.138 - - [13/Apr/2025 06:14:38] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 06:14:40,029] 197.210.54.138 - - [13/Apr/2025 06:14:40] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:03:25,664] 102.89.23.170 - - [13/Apr/2025 21:03:25] "[32mPOST /extractor HTTP/1.1[0m" 302 -
+[2025-04-13 21:03:25,665] [THREAD] Background scraper started for niche: wires, pages: 1
+[2025-04-13 21:03:25,665] [RUN] Scraper started...
+[2025-04-13 21:03:26,100] 102.89.23.170 - - [13/Apr/2025 21:03:26] "GET /results/wires HTTP/1.1" 200 -
+[2025-04-13 21:03:26,835] 102.89.23.170 - - [13/Apr/2025 21:03:26] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:03:28,489] 102.89.23.170 - - [13/Apr/2025 21:03:28] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:03:30,832] 102.89.23.170 - - [13/Apr/2025 21:03:30] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:03:32,490] 102.89.23.170 - - [13/Apr/2025 21:03:32] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:03:34,786] 102.89.23.170 - - [13/Apr/2025 21:03:34] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:03:36,502] 102.89.23.170 - - [13/Apr/2025 21:03:36] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:03:38,895] 102.89.23.170 - - [13/Apr/2025 21:03:38] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:03:40,489] 102.89.23.170 - - [13/Apr/2025 21:03:40] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:03:42,808] 102.89.23.170 - - [13/Apr/2025 21:03:42] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:03:44,490] 102.89.23.170 - - [13/Apr/2025 21:03:44] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:03:46,788] 102.89.23.170 - - [13/Apr/2025 21:03:46] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:03:48,528] 102.89.23.170 - - [13/Apr/2025 21:03:48] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:03:49,118] [RUN] Collected 30 profile links.
+[2025-04-13 21:03:50,727] 102.89.23.170 - - [13/Apr/2025 21:03:50] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:03:52,790] 102.89.23.170 - - [13/Apr/2025 21:03:52] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:03:54,486] 102.89.23.170 - - [13/Apr/2025 21:03:54] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:03:56,790] 102.89.23.170 - - [13/Apr/2025 21:03:56] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:03:58,516] 102.89.23.170 - - [13/Apr/2025 21:03:58] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:04:00,737] 102.89.23.170 - - [13/Apr/2025 21:04:00] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:04:02,595] 102.89.23.170 - - [13/Apr/2025 21:04:02] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:04:04,697] 102.89.23.170 - - [13/Apr/2025 21:04:04] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:04:07,888] 102.89.23.170 - - [13/Apr/2025 21:04:07] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:04:08,517] 102.89.23.170 - - [13/Apr/2025 21:04:08] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:04:10,790] 102.89.23.170 - - [13/Apr/2025 21:04:10] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:04:12,488] 102.89.23.170 - - [13/Apr/2025 21:04:12] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:04:13,487] 102.89.23.170 - - [13/Apr/2025 21:04:13] "GET /logs/wires HTTP/1.1" 200 -
+[2025-04-13 21:04:51,486] 102.89.23.170 - - [13/Apr/2025 21:04:51] "GET /logs/wires HTTP/1.1" 200 -
+[2025-04-13 21:05:03,889] 102.89.23.170 - - [13/Apr/2025 21:05:03] "GET /logs/wires HTTP/1.1" 200 -
+[2025-04-13 21:05:23,016] 102.89.23.170 - - [13/Apr/2025 21:05:23] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:05:23,684] 102.89.23.170 - - [13/Apr/2025 21:05:23] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:05:24,786] 102.89.23.170 - - [13/Apr/2025 21:05:24] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:05:26,489] 102.89.23.170 - - [13/Apr/2025 21:05:26] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:05:28,789] 102.89.23.170 - - [13/Apr/2025 21:05:28] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:05:30,441] 102.89.23.170 - - [13/Apr/2025 21:05:30] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:05:32,696] 102.89.23.170 - - [13/Apr/2025 21:05:32] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:05:34,479] 102.89.23.170 - - [13/Apr/2025 21:05:34] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:05:36,690] 102.89.23.170 - - [13/Apr/2025 21:05:36] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:05:38,488] 102.89.23.170 - - [13/Apr/2025 21:05:38] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:05:40,687] 102.89.23.170 - - [13/Apr/2025 21:05:40] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:05:42,691] 102.89.23.170 - - [13/Apr/2025 21:05:42] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:05:44,789] 102.89.23.170 - - [13/Apr/2025 21:05:44] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:05:46,489] 102.89.23.170 - - [13/Apr/2025 21:05:46] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:05:48,672] 102.89.23.170 - - [13/Apr/2025 21:05:48] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:05:50,713] 102.89.23.170 - - [13/Apr/2025 21:05:50] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:05:52,424] 102.89.23.170 - - [13/Apr/2025 21:05:52] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:05:54,663] 102.89.23.170 - - [13/Apr/2025 21:05:54] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:05:56,698] 102.89.23.170 - - [13/Apr/2025 21:05:56] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:05:58,689] 102.89.23.170 - - [13/Apr/2025 21:05:58] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:06:00,696] 102.89.23.170 - - [13/Apr/2025 21:06:00] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:06:02,691] 102.89.23.170 - - [13/Apr/2025 21:06:02] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:06:04,689] 102.89.23.170 - - [13/Apr/2025 21:06:04] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:06:06,712] 102.89.23.170 - - [13/Apr/2025 21:06:06] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:06:08,426] 102.89.23.170 - - [13/Apr/2025 21:06:08] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:06:10,672] 102.89.23.170 - - [13/Apr/2025 21:06:10] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:06:12,736] 102.89.23.170 - - [13/Apr/2025 21:06:12] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:06:14,431] 102.89.23.170 - - [13/Apr/2025 21:06:14] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:06:35,899] 102.89.23.170 - - [13/Apr/2025 21:06:35] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:06:37,890] 102.89.23.170 - - [13/Apr/2025 21:06:37] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:06:39,586] 102.89.23.170 - - [13/Apr/2025 21:06:39] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:06:41,799] 102.89.23.170 - - [13/Apr/2025 21:06:41] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:06:43,566] 102.89.23.170 - - [13/Apr/2025 21:06:43] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:06:45,801] 102.89.23.170 - - [13/Apr/2025 21:06:45] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:06:47,781] 102.89.23.170 - - [13/Apr/2025 21:06:47] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:06:49,778] 102.89.23.170 - - [13/Apr/2025 21:06:49] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:06:51,890] 102.89.23.170 - - [13/Apr/2025 21:06:51] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:06:53,589] 102.89.23.170 - - [13/Apr/2025 21:06:53] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:06:55,890] 102.89.23.170 - - [13/Apr/2025 21:06:55] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:06:57,592] 102.89.23.170 - - [13/Apr/2025 21:06:57] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:06:59,848] 102.89.23.170 - - [13/Apr/2025 21:06:59] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:07:01,553] 102.89.23.170 - - [13/Apr/2025 21:07:01] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:07:03,815] 102.89.23.170 - - [13/Apr/2025 21:07:03] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:07:05,553] 102.89.23.170 - - [13/Apr/2025 21:07:05] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:07:07,816] 102.89.23.170 - - [13/Apr/2025 21:07:07] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:07:09,590] 102.89.23.170 - - [13/Apr/2025 21:07:09] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:07:11,887] 102.89.23.170 - - [13/Apr/2025 21:07:11] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:07:13,586] 102.89.23.170 - - [13/Apr/2025 21:07:13] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:07:15,862] 102.89.23.170 - - [13/Apr/2025 21:07:15] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:07:17,568] 102.89.23.170 - - [13/Apr/2025 21:07:17] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:07:19,804] 102.89.23.170 - - [13/Apr/2025 21:07:19] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:07:21,813] 102.89.23.170 - - [13/Apr/2025 21:07:21] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:07:23,829] 102.89.23.170 - - [13/Apr/2025 21:07:23] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:07:25,589] 102.89.23.170 - - [13/Apr/2025 21:07:25] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:07:27,889] 102.89.23.170 - - [13/Apr/2025 21:07:27] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:07:29,586] 102.89.23.170 - - [13/Apr/2025 21:07:29] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-13 21:10:18,432] 102.89.23.170 - - [13/Apr/2025 21:10:18] "GET /logs/wires HTTP/1.1" 200 -
+[2025-04-13 21:11:31,124] 102.89.23.170 - - [13/Apr/2025 21:11:31] "GET /all-data HTTP/1.1" 200 -
+[2025-04-13 21:11:46,287] 102.89.23.170 - - [13/Apr/2025 21:11:46] "GET / HTTP/1.1" 200 -
+[2025-04-13 21:13:04,895] [RUN] Collected 28 company websites.
+[2025-04-13 21:13:15,396] [DB] Inserting 19 records into database...
+[2025-04-13 21:13:15,409] [DB] Database insert complete.
+[2025-04-13 21:20:19,768] 102.89.23.170 - - [13/Apr/2025 21:20:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2025-04-13 22:24:00,739] 222.120.180.206 - - [13/Apr/2025 22:24:00] "GET / HTTP/1.0" 200 -
+[2025-04-14 00:37:19,695] 167.94.138.202 - - [14/Apr/2025 00:37:19] code 400, message Bad request version ('À\x14À')
+[2025-04-14 00:37:19,697] 167.94.138.202 - - [14/Apr/2025 00:37:19] "[31m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03ÿþ´\x93\x08\x8d<+Äà±«Å¨\x82¶_éØSp$\x84ÉXÿÞ\x9eøÆ¯5 \x881³ì\x14\x16Ó6;Å¼ßó§¦\x8cqeÕ\x17Ç¬úú\\îym$ïZ\x03\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À[0m" 400 -
+[2025-04-14 00:37:24,534] 167.94.138.202 - - [14/Apr/2025 00:37:24] "GET / HTTP/1.1" 200 -
+[2025-04-14 00:37:31,540] 167.94.138.202 - - [14/Apr/2025 00:37:31] "GET / HTTP/1.1" 200 -
+[2025-04-14 00:37:33,427] 167.94.138.202 - - [14/Apr/2025 00:37:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2025-04-14 00:37:34,959] 167.94.138.202 - - [14/Apr/2025 00:37:34] code 505, message Invalid HTTP version (2.0)
+[2025-04-14 00:37:34,959] 167.94.138.202 - - [14/Apr/2025 00:37:34] "[35m[1mPRI * HTTP/2.0[0m" 505 -
+[2025-04-14 00:37:47,187] 167.94.138.202 - - [14/Apr/2025 00:37:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2025-04-14 00:37:48,504] 167.94.138.202 - - [14/Apr/2025 00:37:48] code 400, message Bad request version ('À\x14À')
+[2025-04-14 00:37:48,504] 167.94.138.202 - - [14/Apr/2025 00:37:48] "[31m[1m\x16\x03\x01\x00÷\x01\x00\x00ó\x03\x03\x0d¦|[Üm\x83Ó\x1cþÔG\x14ÙÁ\x1b9ó\x01Ã»\x97pÎ¸\x87\x84\x0fæÐ\x9a\x9d °ë\x0fµü\x9aH<R}\x9eýã)Í?{\x11\x0e½\x01\x85Þ%þ;äó~\x04\x1d\x93\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À[0m" 400 -
+[2025-04-14 03:43:32,695] 198.235.24.39 - - [14/Apr/2025 03:43:32] "GET / HTTP/1.0" 200 -
+[2025-04-14 05:42:22,452] 80.82.70.133 - - [14/Apr/2025 05:42:22] code 400, message Bad request version ("¯nãY»bhlÿ(=':©\x82ÙoÈ¢×\x93\x98´ï\x80å¹\x90\x00(À")
+[2025-04-14 05:42:22,453] 80.82.70.133 - - [14/Apr/2025 05:42:22] "[31m[1m\x16\x03\x02\x01o\x01\x00\x01k\x03\x02RHÅ\x1a#÷:Nßâ´\x82/ÿ\x09T\x9f§Äy°hÆ\x13\x8c¤\x1c="á\x1a\x98 \x84´,\x85¯nãY»bhlÿ(=':©\x82ÙoÈ¢×\x93\x98´ï\x80å¹\x90\x00(À[0m" 400 -
+[2025-04-14 05:42:36,105] 94.102.49.155 - - [14/Apr/2025 05:42:36] code 400, message Bad request version ('Úh')
+[2025-04-14 05:42:36,106] 94.102.49.155 - - [14/Apr/2025 05:42:36] "[31m[1m\x16\x03\x01\x05¨\x01\x00\x05¤\x03\x03v<~\x0b\x13½)S¿\x9d^-¬ÕÑ¾[ú\x91\x0bKòøÁ|}è§\x85y\x80Ë Úh[0m" 400 -
+[2025-04-14 05:42:36,351] 94.102.49.155 - - [14/Apr/2025 05:42:36] "[33mGET /v2/_catalog HTTP/1.1[0m" 404 -
+[2025-04-14 05:43:15,560] 94.102.49.155 - - [14/Apr/2025 05:43:15] code 400, message Bad request syntax ('\x16\x03\x01\x05¨\x01\x00\x05¤\x03\x03')
+[2025-04-14 05:43:15,560] 94.102.49.155 - - [14/Apr/2025 05:43:15] "[31m[1m\x16\x03\x01\x05¨\x01\x00\x05¤\x03\x03[0m" 400 -
+[2025-04-14 05:43:15,946] 94.102.49.155 - - [14/Apr/2025 05:43:15] "[33mGET /v2/_catalog HTTP/1.1[0m" 404 -
+[2025-04-14 06:05:20,564] 205.210.31.97 - - [14/Apr/2025 06:05:20] "GET / HTTP/1.1" 200 -
+[2025-04-14 06:54:14,350]  * Detected change in '/home/enthernet/app/enthernets/main.py', reloading
+[2025-04-14 14:37:45,079] [THREAD] Background scraper started for niche: wires, pages: 1
+[2025-04-14 14:37:45,082] [RUN] Scraper started...
+[2025-04-14 14:37:45,369] [ERROR] Scraping failed: Message: Service /usr/bin/chromedriver unexpectedly exited. Status code was: 1
+
+[2025-04-14 14:37:50,105] Exception on /results/wires [GET]
+Traceback (most recent call last):
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 146, in __init__
+    self._dbapi_connection = engine.raw_connection()
+                             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 3298, in raw_connection
+    return self.pool.connect()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 449, in connect
+    return _ConnectionFairy._checkout(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 1264, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 713, in checkout
+    rec = pool._do_get()
+          ^^^^^^^^^^^^^^
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 179, in _do_get
+    with util.safe_reraise():
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 177, in _do_get
+    return self._create_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 390, in _create_connection
+    return _ConnectionRecord(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 675, in __init__
+    self.__connect()
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 901, in __connect
+    with util.safe_reraise():
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 897, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/engine/create.py", line 646, in connect
+    return dialect.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/engine/default.py", line 625, in connect
+    return self.loaded_dbapi.connect(*cargs, **cparams)  # type: ignore[no-any-return]  # NOQA: E501
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: unable to open database file
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/enthernet/app/enthernets/main.py", line 144, in results
+    results_data = ScrapedCompany.query.filter_by(niche=niche).all()
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/orm/query.py", line 2704, in all
+    return self._iter().all()  # type: ignore
+           ^^^^^^^^^^^^
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/orm/query.py", line 2858, in _iter
+    result: Union[ScalarResult[_T], Result[_T]] = self.session.execute(
+                                                  ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2365, in execute
+    return self._execute_internal(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2241, in _execute_internal
+    conn = self._connection_for_bind(bind)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2110, in _connection_for_bind
+    return trans._connection_for_bind(engine, execution_options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 2, in _connection_for_bind
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/orm/state_changes.py", line 139, in _go
+    ret_value = fn(self, *arg, **kw)
+                ^^^^^^^^^^^^^^^^^^^^
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 1189, in _connection_for_bind
+    conn = bind.connect()
+           ^^^^^^^^^^^^^^
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 3274, in connect
+    return self._connection_cls(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 148, in __init__
+    Connection._handle_dbapi_exception_noconnection(
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 2439, in _handle_dbapi_exception_noconnection
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 146, in __init__
+    self._dbapi_connection = engine.raw_connection()
+                             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 3298, in raw_connection
+    return self.pool.connect()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 449, in connect
+    return _ConnectionFairy._checkout(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 1264, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 713, in checkout
+    rec = pool._do_get()
+          ^^^^^^^^^^^^^^
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 179, in _do_get
+    with util.safe_reraise():
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 177, in _do_get
+    return self._create_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 390, in _create_connection
+    return _ConnectionRecord(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 675, in __init__
+    self.__connect()
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 901, in __connect
+    with util.safe_reraise():
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 897, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/engine/create.py", line 646, in connect
+    return dialect.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/enthernet/app/enthernets/venv/lib/python3.12/site-packages/sqlalchemy/engine/default.py", line 625, in connect
+    return self.loaded_dbapi.connect(*cargs, **cparams)  # type: ignore[no-any-return]  # NOQA: E501
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) unable to open database file
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+[2025-04-14 15:13:54,715] 102.91.4.123 - - [14/Apr/2025 15:13:54] "[32mPOST /extractor HTTP/1.1[0m" 302 -
+[2025-04-14 15:13:54,718] [THREAD] Background scraper started for niche: wires, pages: 1
+[2025-04-14 15:13:54,719] [RUN] Scraper started...
+[2025-04-14 15:13:55,119] 102.91.4.123 - - [14/Apr/2025 15:13:55] "GET /results/wires HTTP/1.1" 200 -
+[2025-04-14 15:13:55,798] 102.91.4.123 - - [14/Apr/2025 15:13:55] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-14 15:13:57,497] 102.91.4.123 - - [14/Apr/2025 15:13:57] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-14 15:13:59,797] 102.91.4.123 - - [14/Apr/2025 15:13:59] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-14 15:14:15,832] [RUN] Collected 30 profile links.
+[2025-04-14 15:23:59,094] [RUN] Collected 28 company websites.
+[2025-04-14 15:24:14,189] [DB] Inserting 19 records into database...
+[2025-04-14 15:24:14,205] [DB] Database insert complete.
+[2025-04-14 15:36:20,055] 102.91.4.123 - - [14/Apr/2025 15:36:20] "GET /progress/wires HTTP/1.1" 200 -
+[2025-04-14 15:36:20,986] 102.91.4.123 - - [14/Apr/2025 15:36:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2025-04-14 15:37:25,716] 102.91.4.123 - - [14/Apr/2025 15:37:25] "GET /all-data HTTP/1.1" 200 -
+[2025-04-14 15:38:53,778] 185.227.183.44 - - [14/Apr/2025 15:38:53] "GET / HTTP/1.1" 200 -
+[2025-04-14 15:38:54,109] 185.227.183.44 - - [14/Apr/2025 15:38:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2025-04-14 15:39:05,139] 185.227.183.44 - - [14/Apr/2025 15:39:05] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+[2025-04-14 15:39:08,891] 185.227.183.44 - - [14/Apr/2025 15:39:08] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+[2025-04-14 15:39:09,963] 185.227.183.44 - - [14/Apr/2025 15:39:09] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+[2025-04-14 15:39:10,933] 185.227.183.44 - - [14/Apr/2025 15:39:10] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+[2025-04-14 15:39:17,352] 185.227.183.44 - - [14/Apr/2025 15:39:17] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+[2025-04-14 15:40:07,233] 185.227.183.44 - - [14/Apr/2025 15:40:07] "GET / HTTP/1.1" 200 -
+[2025-04-14 15:40:10,920] 185.227.183.44 - - [14/Apr/2025 15:40:10] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+[2025-04-14 15:44:11,879] 185.227.183.44 - - [14/Apr/2025 15:44:11] "GET /extractor HTTP/1.1" 200 -
+[2025-04-14 15:44:14,603] 185.227.183.44 - - [14/Apr/2025 15:44:14] "[32mPOST /extractor HTTP/1.1[0m" 302 -
+[2025-04-14 15:44:14,606] [THREAD] Background scraper started for niche: pen, pages: 1
+[2025-04-14 15:44:14,606] [RUN] Scraper started...
+[2025-04-14 15:44:14,814] 185.227.183.44 - - [14/Apr/2025 15:44:14] "GET /results/pen HTTP/1.1" 200 -
+[2025-04-14 15:44:15,297] 185.227.183.44 - - [14/Apr/2025 15:44:15] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:44:17,305] 185.227.183.44 - - [14/Apr/2025 15:44:17] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:44:19,397] 185.227.183.44 - - [14/Apr/2025 15:44:19] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:44:21,096] 185.227.183.44 - - [14/Apr/2025 15:44:21] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:44:23,295] 185.227.183.44 - - [14/Apr/2025 15:44:23] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:44:25,297] 185.227.183.44 - - [14/Apr/2025 15:44:25] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:44:27,296] 185.227.183.44 - - [14/Apr/2025 15:44:27] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:44:29,374] 185.227.183.44 - - [14/Apr/2025 15:44:29] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:44:31,096] 185.227.183.44 - - [14/Apr/2025 15:44:31] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:44:33,998] 185.227.183.44 - - [14/Apr/2025 15:44:33] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:44:34,128] [RUN] Collected 30 profile links.
+[2025-04-14 15:44:35,994] 185.227.183.44 - - [14/Apr/2025 15:44:35] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:44:37,995] 185.227.183.44 - - [14/Apr/2025 15:44:37] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:44:39,993] 185.227.183.44 - - [14/Apr/2025 15:44:39] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:44:41,996] 185.227.183.44 - - [14/Apr/2025 15:44:41] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:44:43,996] 185.227.183.44 - - [14/Apr/2025 15:44:43] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:44:45,946] 185.227.183.44 - - [14/Apr/2025 15:44:45] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:44:47,955] 185.227.183.44 - - [14/Apr/2025 15:44:47] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:44:49,965] 185.227.183.44 - - [14/Apr/2025 15:44:49] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:44:51,953] 185.227.183.44 - - [14/Apr/2025 15:44:51] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:44:53,997] 185.227.183.44 - - [14/Apr/2025 15:44:53] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:44:55,996] 185.227.183.44 - - [14/Apr/2025 15:44:55] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:44:57,994] 185.227.183.44 - - [14/Apr/2025 15:44:57] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:44:59,995] 185.227.183.44 - - [14/Apr/2025 15:44:59] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:45:01,954] 185.227.183.44 - - [14/Apr/2025 15:45:01] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:45:03,932] 185.227.183.44 - - [14/Apr/2025 15:45:03] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:45:05,955] 185.227.183.44 - - [14/Apr/2025 15:45:05] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:45:07,964] 185.227.183.44 - - [14/Apr/2025 15:45:07] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:45:09,976] 185.227.183.44 - - [14/Apr/2025 15:45:09] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:45:11,995] 185.227.183.44 - - [14/Apr/2025 15:45:11] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:45:13,996] 185.227.183.44 - - [14/Apr/2025 15:45:13] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:45:15,936] 185.227.183.44 - - [14/Apr/2025 15:45:15] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:45:17,994] 185.227.183.44 - - [14/Apr/2025 15:45:17] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:45:19,951] 185.227.183.44 - - [14/Apr/2025 15:45:19] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:45:21,940] 185.227.183.44 - - [14/Apr/2025 15:45:21] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:45:23,984] 185.227.183.44 - - [14/Apr/2025 15:45:23] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:45:25,925] 185.227.183.44 - - [14/Apr/2025 15:45:25] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:45:27,947] 185.227.183.44 - - [14/Apr/2025 15:45:27] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:45:29,994] 185.227.183.44 - - [14/Apr/2025 15:45:29] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:45:31,991] 185.227.183.44 - - [14/Apr/2025 15:45:31] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:46:00,937] 185.227.183.44 - - [14/Apr/2025 15:46:00] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:47:01,011] 185.227.183.44 - - [14/Apr/2025 15:47:01] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:48:01,002] 185.227.183.44 - - [14/Apr/2025 15:48:01] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:49:00,996] 185.227.183.44 - - [14/Apr/2025 15:49:00] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:50:01,004] 185.227.183.44 - - [14/Apr/2025 15:50:01] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:51:01,179] 185.227.183.44 - - [14/Apr/2025 15:51:01] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:52:00,795] 185.227.183.44 - - [14/Apr/2025 15:52:00] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:53:01,006] 185.227.183.44 - - [14/Apr/2025 15:53:01] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:53:24,684] [RUN] Collected 30 company websites.
+[2025-04-14 15:54:00,983] 185.227.183.44 - - [14/Apr/2025 15:54:00] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:54:49,704] [DB] Inserting 17 records into database...
+[2025-04-14 15:54:49,713] [DB] Database insert complete.
+[2025-04-14 15:55:00,991] 185.227.183.44 - - [14/Apr/2025 15:55:00] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:55:19,819] 185.227.183.44 - - [14/Apr/2025 15:55:19] "GET /results/pen HTTP/1.1" 200 -
+[2025-04-14 15:55:20,066] 185.227.183.44 - - [14/Apr/2025 15:55:20] "GET /progress/pen HTTP/1.1" 200 -
+[2025-04-14 15:55:25,916] 185.227.183.44 - - [14/Apr/2025 15:55:25] "GET /extractor HTTP/1.1" 200 -
+[2025-04-14 15:56:05,024] 102.91.4.123 - - [14/Apr/2025 15:56:05] "GET /all-data HTTP/1.1" 200 -
+[2025-04-14 15:56:07,280] 102.91.4.123 - - [14/Apr/2025 15:56:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2025-04-14 16:04:10,843] 93.182.104.196 - - [14/Apr/2025 16:04:10] "GET /extractor HTTP/1.1" 200 -
+[2025-04-14 16:04:11,166] 93.182.104.196 - - [14/Apr/2025 16:04:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2025-04-14 16:04:48,442] 93.182.104.196 - - [14/Apr/2025 16:04:48] "[32mPOST /extractor HTTP/1.1[0m" 302 -
+[2025-04-14 16:04:48,445] [THREAD] Background scraper started for niche: fiber, pages: 2
+[2025-04-14 16:04:48,446] [RUN] Scraper started...
+[2025-04-14 16:04:48,802] 93.182.104.196 - - [14/Apr/2025 16:04:48] "GET /results/fiber HTTP/1.1" 200 -
+[2025-04-14 16:04:49,323] 93.182.104.196 - - [14/Apr/2025 16:04:49] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:04:51,312] 93.182.104.196 - - [14/Apr/2025 16:04:51] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:04:53,100] 93.182.104.196 - - [14/Apr/2025 16:04:53] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:04:55,314] 93.182.104.196 - - [14/Apr/2025 16:04:55] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:04:57,294] 93.182.104.196 - - [14/Apr/2025 16:04:57] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:04:59,294] 93.182.104.196 - - [14/Apr/2025 16:04:59] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:05:01,393] 93.182.104.196 - - [14/Apr/2025 16:05:01] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:05:03,048] 93.182.104.196 - - [14/Apr/2025 16:05:03] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:05:05,308] 93.182.104.196 - - [14/Apr/2025 16:05:05] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:05:07,034] 93.182.104.196 - - [14/Apr/2025 16:05:07] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:05:09,246] 93.182.104.196 - - [14/Apr/2025 16:05:09] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:05:11,318] 93.182.104.196 - - [14/Apr/2025 16:05:11] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:05:13,301] 93.182.104.196 - - [14/Apr/2025 16:05:13] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:05:15,024] 93.182.104.196 - - [14/Apr/2025 16:05:15] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:05:17,310] 93.182.104.196 - - [14/Apr/2025 16:05:17] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:05:19,032] 93.182.104.196 - - [14/Apr/2025 16:05:19] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:05:21,277] 93.182.104.196 - - [14/Apr/2025 16:05:21] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:05:23,294] 93.182.104.196 - - [14/Apr/2025 16:05:23] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:05:25,048] 93.182.104.196 - - [14/Apr/2025 16:05:25] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:05:27,304] 93.182.104.196 - - [14/Apr/2025 16:05:27] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:05:27,428] [RUN] Collected 60 profile links.
+[2025-04-14 16:05:29,090] 93.182.104.196 - - [14/Apr/2025 16:05:29] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:05:31,402] 93.182.104.196 - - [14/Apr/2025 16:05:31] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:05:33,026] 93.182.104.196 - - [14/Apr/2025 16:05:33] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:05:35,306] 93.182.104.196 - - [14/Apr/2025 16:05:35] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:05:37,090] 93.182.104.196 - - [14/Apr/2025 16:05:37] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:05:39,271] 93.182.104.196 - - [14/Apr/2025 16:05:39] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:05:41,255] 93.182.104.196 - - [14/Apr/2025 16:05:41] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:05:43,342] 93.182.104.196 - - [14/Apr/2025 16:05:43] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:05:45,055] 93.182.104.196 - - [14/Apr/2025 16:05:45] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:05:47,294] 93.182.104.196 - - [14/Apr/2025 16:05:47] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:05:49,393] 93.182.104.196 - - [14/Apr/2025 16:05:49] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:05:51,095] 93.182.104.196 - - [14/Apr/2025 16:05:51] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:05:53,320] 93.182.104.196 - - [14/Apr/2025 16:05:53] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:05:55,120] 93.182.104.196 - - [14/Apr/2025 16:05:55] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:05:57,368] 93.182.104.196 - - [14/Apr/2025 16:05:57] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:05:59,191] 93.182.104.196 - - [14/Apr/2025 16:05:59] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:06:01,346] 93.182.104.196 - - [14/Apr/2025 16:06:01] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:06:03,050] 93.182.104.196 - - [14/Apr/2025 16:06:03] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:06:05,325] 93.182.104.196 - - [14/Apr/2025 16:06:05] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:06:07,100] 93.182.104.196 - - [14/Apr/2025 16:06:07] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:06:09,316] 93.182.104.196 - - [14/Apr/2025 16:06:09] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:06:11,104] 93.182.104.196 - - [14/Apr/2025 16:06:11] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:06:13,306] 93.182.104.196 - - [14/Apr/2025 16:06:13] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:06:15,292] 93.182.104.196 - - [14/Apr/2025 16:06:15] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:06:17,366] 93.182.104.196 - - [14/Apr/2025 16:06:17] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:06:19,098] 93.182.104.196 - - [14/Apr/2025 16:06:19] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:06:21,312] 93.182.104.196 - - [14/Apr/2025 16:06:21] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:06:23,395] 93.182.104.196 - - [14/Apr/2025 16:06:23] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:06:25,035] 93.182.104.196 - - [14/Apr/2025 16:06:25] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:06:27,334] 93.182.104.196 - - [14/Apr/2025 16:06:27] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:06:29,275] 93.182.104.196 - - [14/Apr/2025 16:06:29] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:06:31,269] 93.182.104.196 - - [14/Apr/2025 16:06:31] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:06:33,308] 93.182.104.196 - - [14/Apr/2025 16:06:33] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:06:35,055] 93.182.104.196 - - [14/Apr/2025 16:06:35] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:06:37,299] 93.182.104.196 - - [14/Apr/2025 16:06:37] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:06:39,041] 93.182.104.196 - - [14/Apr/2025 16:06:39] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:06:41,315] 93.182.104.196 - - [14/Apr/2025 16:06:41] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:07:03,074] 93.182.104.196 - - [14/Apr/2025 16:07:03] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:07:05,325] 93.182.104.196 - - [14/Apr/2025 16:07:05] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:07:07,377] 93.182.104.196 - - [14/Apr/2025 16:07:07] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:07:10,322] 93.182.104.196 - - [14/Apr/2025 16:07:10] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:07:11,322] 93.182.104.196 - - [14/Apr/2025 16:07:11] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:07:13,325] 93.182.104.196 - - [14/Apr/2025 16:07:13] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:07:15,391] 93.182.104.196 - - [14/Apr/2025 16:07:15] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:07:17,291] 93.182.104.196 - - [14/Apr/2025 16:07:17] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:07:19,377] 93.182.104.196 - - [14/Apr/2025 16:07:19] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:07:21,309] 93.182.104.196 - - [14/Apr/2025 16:07:21] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:07:23,334] 93.182.104.196 - - [14/Apr/2025 16:07:23] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:07:25,389] 93.182.104.196 - - [14/Apr/2025 16:07:25] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:07:27,391] 93.182.104.196 - - [14/Apr/2025 16:07:27] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:07:29,427] 93.182.104.196 - - [14/Apr/2025 16:07:29] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:07:31,304] 93.182.104.196 - - [14/Apr/2025 16:07:31] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:07:33,421] 93.182.104.196 - - [14/Apr/2025 16:07:33] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:07:35,417] 93.182.104.196 - - [14/Apr/2025 16:07:35] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:07:37,343] 93.182.104.196 - - [14/Apr/2025 16:07:37] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:07:39,353] 93.182.104.196 - - [14/Apr/2025 16:07:39] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:07:41,365] 93.182.104.196 - - [14/Apr/2025 16:07:41] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:07:43,340] 93.182.104.196 - - [14/Apr/2025 16:07:43] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:07:45,356] 93.182.104.196 - - [14/Apr/2025 16:07:45] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:07:47,400] 93.182.104.196 - - [14/Apr/2025 16:07:47] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:07:49,347] 93.182.104.196 - - [14/Apr/2025 16:07:49] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:07:51,488] 93.182.104.196 - - [14/Apr/2025 16:07:51] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:07:53,399] 93.182.104.196 - - [14/Apr/2025 16:07:53] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:07:55,321] 93.182.104.196 - - [14/Apr/2025 16:07:55] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:07:55,893] 93.182.104.196 - - [14/Apr/2025 16:07:55] "GET /extractor HTTP/1.1" 200 -
+[2025-04-14 16:07:57,391] 93.182.104.196 - - [14/Apr/2025 16:07:57] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:07:59,401] 93.182.104.196 - - [14/Apr/2025 16:07:59] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:08:01,395] 93.182.104.196 - - [14/Apr/2025 16:08:01] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:08:03,391] 93.182.104.196 - - [14/Apr/2025 16:08:03] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:08:05,288] 93.182.104.196 - - [14/Apr/2025 16:08:05] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:08:07,419] 93.182.104.196 - - [14/Apr/2025 16:08:07] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:08:09,367] 93.182.104.196 - - [14/Apr/2025 16:08:09] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:08:11,263] 93.182.104.196 - - [14/Apr/2025 16:08:11] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:08:13,322] 93.182.104.196 - - [14/Apr/2025 16:08:13] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:08:15,309] 93.182.104.196 - - [14/Apr/2025 16:08:15] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:09:39,181] [THREAD] Background scraper started for niche: PEN, pages: 1
+[2025-04-14 16:09:39,182] [RUN] Scraper started...
+[2025-04-14 16:09:39,180] 93.182.104.196 - - [14/Apr/2025 16:09:39] "[32mPOST /extractor HTTP/1.1[0m" 302 -
+[2025-04-14 16:09:39,510] 93.182.104.196 - - [14/Apr/2025 16:09:39] "GET /results/PEN HTTP/1.1" 200 -
+[2025-04-14 16:09:39,791] 93.182.104.196 - - [14/Apr/2025 16:09:39] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:09:42,094] 93.182.104.196 - - [14/Apr/2025 16:09:42] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:09:43,796] 93.182.104.196 - - [14/Apr/2025 16:09:43] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:09:46,092] 93.182.104.196 - - [14/Apr/2025 16:09:46] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:09:47,808] 93.182.104.196 - - [14/Apr/2025 16:09:47] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:09:50,092] 93.182.104.196 - - [14/Apr/2025 16:09:50] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:09:51,793] 93.182.104.196 - - [14/Apr/2025 16:09:51] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:09:54,027] 93.182.104.196 - - [14/Apr/2025 16:09:54] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:09:55,792] 93.182.104.196 - - [14/Apr/2025 16:09:55] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:09:58,060] 93.182.104.196 - - [14/Apr/2025 16:09:58] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:10:00,018] 93.182.104.196 - - [14/Apr/2025 16:10:00] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:10:02,092] 93.182.104.196 - - [14/Apr/2025 16:10:02] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:10:02,334] [RUN] Collected 30 profile links.
+[2025-04-14 16:10:03,796] 93.182.104.196 - - [14/Apr/2025 16:10:03] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:10:05,991] 93.182.104.196 - - [14/Apr/2025 16:10:05] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:10:08,091] 93.182.104.196 - - [14/Apr/2025 16:10:08] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:10:09,791] 93.182.104.196 - - [14/Apr/2025 16:10:09] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:10:12,022] 93.182.104.196 - - [14/Apr/2025 16:10:12] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:10:13,833] 93.182.104.196 - - [14/Apr/2025 16:10:13] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:10:16,020] 93.182.104.196 - - [14/Apr/2025 16:10:16] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:10:17,790] 93.182.104.196 - - [14/Apr/2025 16:10:17] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:10:20,031] 93.182.104.196 - - [14/Apr/2025 16:10:20] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:10:21,781] 93.182.104.196 - - [14/Apr/2025 16:10:21] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:10:24,036] 93.182.104.196 - - [14/Apr/2025 16:10:24] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:10:25,791] 93.182.104.196 - - [14/Apr/2025 16:10:25] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:10:28,090] 93.182.104.196 - - [14/Apr/2025 16:10:28] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:10:30,093] 93.182.104.196 - - [14/Apr/2025 16:10:30] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:10:31,789] 93.182.104.196 - - [14/Apr/2025 16:10:31] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:10:34,013] 93.182.104.196 - - [14/Apr/2025 16:10:34] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:10:36,039] 93.182.104.196 - - [14/Apr/2025 16:10:36] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:10:37,790] 93.182.104.196 - - [14/Apr/2025 16:10:37] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:10:40,090] 93.182.104.196 - - [14/Apr/2025 16:10:40] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:10:41,789] 93.182.104.196 - - [14/Apr/2025 16:10:41] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:10:44,090] 93.182.104.196 - - [14/Apr/2025 16:10:44] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:10:45,792] 93.182.104.196 - - [14/Apr/2025 16:10:45] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:10:48,294] 93.182.104.196 - - [14/Apr/2025 16:10:48] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:10:49,791] 93.182.104.196 - - [14/Apr/2025 16:10:49] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:10:52,032] 93.182.104.196 - - [14/Apr/2025 16:10:52] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:10:53,808] 93.182.104.196 - - [14/Apr/2025 16:10:53] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:10:56,089] 93.182.104.196 - - [14/Apr/2025 16:10:56] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:10:57,789] 93.182.104.196 - - [14/Apr/2025 16:10:57] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:11:00,035] 93.182.104.196 - - [14/Apr/2025 16:11:00] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:11:01,789] 93.182.104.196 - - [14/Apr/2025 16:11:01] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:11:24,194] 93.182.104.196 - - [14/Apr/2025 16:11:24] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:11:26,058] 93.182.104.196 - - [14/Apr/2025 16:11:26] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:11:28,083] 93.182.104.196 - - [14/Apr/2025 16:11:28] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:11:30,196] 93.182.104.196 - - [14/Apr/2025 16:11:30] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:11:32,092] 93.182.104.196 - - [14/Apr/2025 16:11:32] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:11:34,091] 93.182.104.196 - - [14/Apr/2025 16:11:34] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:11:36,089] 93.182.104.196 - - [14/Apr/2025 16:11:36] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:11:38,108] 93.182.104.196 - - [14/Apr/2025 16:11:38] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:11:39,992] 93.182.104.196 - - [14/Apr/2025 16:11:39] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:11:42,013] 93.182.104.196 - - [14/Apr/2025 16:11:42] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:11:44,097] 93.182.104.196 - - [14/Apr/2025 16:11:44] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:11:46,013] 93.182.104.196 - - [14/Apr/2025 16:11:46] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:11:48,191] 93.182.104.196 - - [14/Apr/2025 16:11:48] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:11:49,991] 93.182.104.196 - - [14/Apr/2025 16:11:49] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:11:52,094] 93.182.104.196 - - [14/Apr/2025 16:11:52] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:11:54,112] 93.182.104.196 - - [14/Apr/2025 16:11:54] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:11:56,093] 93.182.104.196 - - [14/Apr/2025 16:11:56] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:11:58,122] 93.182.104.196 - - [14/Apr/2025 16:11:58] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:12:00,028] 93.182.104.196 - - [14/Apr/2025 16:12:00] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:12:02,192] 93.182.104.196 - - [14/Apr/2025 16:12:02] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:12:04,013] 93.182.104.196 - - [14/Apr/2025 16:12:04] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:12:06,076] 93.182.104.196 - - [14/Apr/2025 16:12:06] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:12:08,132] 93.182.104.196 - - [14/Apr/2025 16:12:08] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:12:10,130] 93.182.104.196 - - [14/Apr/2025 16:12:10] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:12:12,025] 93.182.104.196 - - [14/Apr/2025 16:12:12] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:12:14,154] 93.182.104.196 - - [14/Apr/2025 16:12:14] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:12:16,011] 93.182.104.196 - - [14/Apr/2025 16:12:16] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:12:18,044] 93.182.104.196 - - [14/Apr/2025 16:12:18] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:12:20,092] 93.182.104.196 - - [14/Apr/2025 16:12:20] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:12:22,119] 93.182.104.196 - - [14/Apr/2025 16:12:22] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:12:25,125] 93.182.104.196 - - [14/Apr/2025 16:12:25] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:12:26,115] 93.182.104.196 - - [14/Apr/2025 16:12:26] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:12:28,128] 93.182.104.196 - - [14/Apr/2025 16:12:28] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:12:30,028] 93.182.104.196 - - [14/Apr/2025 16:12:30] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:12:32,091] 93.182.104.196 - - [14/Apr/2025 16:12:32] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:12:34,091] 93.182.104.196 - - [14/Apr/2025 16:12:34] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:12:36,091] 93.182.104.196 - - [14/Apr/2025 16:12:36] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:12:38,122] 93.182.104.196 - - [14/Apr/2025 16:12:38] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:12:41,100] 93.182.104.196 - - [14/Apr/2025 16:12:41] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:12:42,123] 93.182.104.196 - - [14/Apr/2025 16:12:42] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:12:44,190] 93.182.104.196 - - [14/Apr/2025 16:12:44] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:12:46,095] 93.182.104.196 - - [14/Apr/2025 16:12:46] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:12:48,043] 93.182.104.196 - - [14/Apr/2025 16:12:48] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:12:50,028] 93.182.104.196 - - [14/Apr/2025 16:12:50] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:12:52,193] 93.182.104.196 - - [14/Apr/2025 16:12:52] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:12:54,110] 93.182.104.196 - - [14/Apr/2025 16:12:54] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:12:56,089] 93.182.104.196 - - [14/Apr/2025 16:12:56] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:12:58,192] 93.182.104.196 - - [14/Apr/2025 16:12:58] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:13:00,031] 93.182.104.196 - - [14/Apr/2025 16:13:00] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:13:02,094] 93.182.104.196 - - [14/Apr/2025 16:13:02] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:13:05,079] 93.182.104.196 - - [14/Apr/2025 16:13:05] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:13:06,584] 93.182.104.196 - - [14/Apr/2025 16:13:06] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:13:08,592] 93.182.104.196 - - [14/Apr/2025 16:13:08] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:13:10,630] 93.182.104.196 - - [14/Apr/2025 16:13:10] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:13:12,592] 93.182.104.196 - - [14/Apr/2025 16:13:12] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:13:14,591] 93.182.104.196 - - [14/Apr/2025 16:13:14] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:13:16,533] 93.182.104.196 - - [14/Apr/2025 16:13:16] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:13:18,589] 93.182.104.196 - - [14/Apr/2025 16:13:18] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:13:20,525] 93.182.104.196 - - [14/Apr/2025 16:13:20] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:13:22,592] 93.182.104.196 - - [14/Apr/2025 16:13:22] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:13:24,690] 93.182.104.196 - - [14/Apr/2025 16:13:24] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:13:26,593] 93.182.104.196 - - [14/Apr/2025 16:13:26] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:13:28,499] 93.182.104.196 - - [14/Apr/2025 16:13:28] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:13:30,508] 93.182.104.196 - - [14/Apr/2025 16:13:30] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:13:32,489] 93.182.104.196 - - [14/Apr/2025 16:13:32] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:13:34,506] 93.182.104.196 - - [14/Apr/2025 16:13:34] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:13:36,581] 93.182.104.196 - - [14/Apr/2025 16:13:36] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:13:38,593] 93.182.104.196 - - [14/Apr/2025 16:13:38] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:13:40,493] 93.182.104.196 - - [14/Apr/2025 16:13:40] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:13:42,528] 93.182.104.196 - - [14/Apr/2025 16:13:42] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:13:44,479] 93.182.104.196 - - [14/Apr/2025 16:13:44] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:13:46,693] 93.182.104.196 - - [14/Apr/2025 16:13:46] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:13:48,607] 93.182.104.196 - - [14/Apr/2025 16:13:48] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:13:50,509] 93.182.104.196 - - [14/Apr/2025 16:13:50] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:13:52,585] 93.182.104.196 - - [14/Apr/2025 16:13:52] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:13:54,543] 93.182.104.196 - - [14/Apr/2025 16:13:54] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:13:56,494] 93.182.104.196 - - [14/Apr/2025 16:13:56] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:13:58,490] 93.182.104.196 - - [14/Apr/2025 16:13:58] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:14:00,590] 93.182.104.196 - - [14/Apr/2025 16:14:00] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:14:02,596] 93.182.104.196 - - [14/Apr/2025 16:14:02] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:14:04,528] 93.182.104.196 - - [14/Apr/2025 16:14:04] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:14:08,504] 93.182.104.196 - - [14/Apr/2025 16:14:08] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:14:09,994] 93.182.104.196 - - [14/Apr/2025 16:14:09] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:14:12,558] 93.182.104.196 - - [14/Apr/2025 16:14:12] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:14:14,595] 93.182.104.196 - - [14/Apr/2025 16:14:14] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:14:16,519] 93.182.104.196 - - [14/Apr/2025 16:14:16] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:14:18,489] 93.182.104.196 - - [14/Apr/2025 16:14:18] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:14:20,593] 93.182.104.196 - - [14/Apr/2025 16:14:20] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:14:22,507] 93.182.104.196 - - [14/Apr/2025 16:14:22] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:14:24,591] 93.182.104.196 - - [14/Apr/2025 16:14:24] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:14:26,491] 93.182.104.196 - - [14/Apr/2025 16:14:26] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:14:28,513] 93.182.104.196 - - [14/Apr/2025 16:14:28] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:14:30,515] 93.182.104.196 - - [14/Apr/2025 16:14:30] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:14:32,500] 93.182.104.196 - - [14/Apr/2025 16:14:32] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:14:34,516] 93.182.104.196 - - [14/Apr/2025 16:14:34] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:14:36,522] 93.182.104.196 - - [14/Apr/2025 16:14:36] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:14:38,588] 93.182.104.196 - - [14/Apr/2025 16:14:38] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:14:40,495] 93.182.104.196 - - [14/Apr/2025 16:14:40] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:14:42,589] 93.182.104.196 - - [14/Apr/2025 16:14:42] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:14:44,528] 93.182.104.196 - - [14/Apr/2025 16:14:44] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:14:46,518] 93.182.104.196 - - [14/Apr/2025 16:14:46] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:14:48,493] 93.182.104.196 - - [14/Apr/2025 16:14:48] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:14:50,684] 93.182.104.196 - - [14/Apr/2025 16:14:50] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:14:52,593] 93.182.104.196 - - [14/Apr/2025 16:14:52] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:14:54,609] 93.182.104.196 - - [14/Apr/2025 16:14:54] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:14:56,592] 93.182.104.196 - - [14/Apr/2025 16:14:56] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:14:58,521] 93.182.104.196 - - [14/Apr/2025 16:14:58] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:15:00,592] 93.182.104.196 - - [14/Apr/2025 16:15:00] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:15:02,589] 93.182.104.196 - - [14/Apr/2025 16:15:02] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:15:04,509] 93.182.104.196 - - [14/Apr/2025 16:15:04] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:15:06,607] 93.182.104.196 - - [14/Apr/2025 16:15:06] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:15:08,518] 93.182.104.196 - - [14/Apr/2025 16:15:08] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:15:10,495] 93.182.104.196 - - [14/Apr/2025 16:15:10] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:15:25,557] 93.182.104.196 - - [14/Apr/2025 16:15:25] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:16:25,589] 93.182.104.196 - - [14/Apr/2025 16:16:25] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:17:25,494] 93.182.104.196 - - [14/Apr/2025 16:17:25] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:18:25,591] 93.182.104.196 - - [14/Apr/2025 16:18:25] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:19:17,896] 93.182.104.196 - - [14/Apr/2025 16:19:17] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:19:18,491] 93.182.104.196 - - [14/Apr/2025 16:19:18] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:20:05,619] 93.182.104.196 - - [14/Apr/2025 16:20:05] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:20:18,157] [RUN] Collected 29 company websites.
+[2025-04-14 16:20:19,807] [ERROR] Scraping failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-04-14 16:21:20,592] [DB] Inserting 21 records into database...
+[2025-04-14 16:21:20,602] [DB] Database insert complete.
+[2025-04-14 16:21:25,495] 93.182.104.196 - - [14/Apr/2025 16:21:25] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:21:32,444] 102.88.111.231 - - [14/Apr/2025 16:21:32] "GET /all-data HTTP/1.1" 200 -
+[2025-04-14 16:21:32,483] 102.88.111.231 - - [14/Apr/2025 16:21:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2025-04-14 16:21:42,926] 102.88.111.231 - - [14/Apr/2025 16:21:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2025-04-14 16:33:18,281] 93.182.104.196 - - [14/Apr/2025 16:33:18] "GET /extractor HTTP/1.1" 200 -
+[2025-04-14 16:33:21,939] 93.182.104.196 - - [14/Apr/2025 16:33:21] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:33:23,904] 93.182.104.196 - - [14/Apr/2025 16:33:23] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:33:26,200] 93.182.104.196 - - [14/Apr/2025 16:33:26] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:33:27,912] 93.182.104.196 - - [14/Apr/2025 16:33:27] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:33:30,112] 93.182.104.196 - - [14/Apr/2025 16:33:30] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:33:32,207] 93.182.104.196 - - [14/Apr/2025 16:33:32] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:33:34,027] 93.182.104.196 - - [14/Apr/2025 16:33:34] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:33:36,114] 93.182.104.196 - - [14/Apr/2025 16:33:36] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:33:38,226] 93.182.104.196 - - [14/Apr/2025 16:33:38] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:33:39,899] 93.182.104.196 - - [14/Apr/2025 16:33:39] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:33:42,257] 93.182.104.196 - - [14/Apr/2025 16:33:42] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:33:43,950] 93.182.104.196 - - [14/Apr/2025 16:33:43] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:33:46,203] 93.182.104.196 - - [14/Apr/2025 16:33:46] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:33:47,914] 93.182.104.196 - - [14/Apr/2025 16:33:47] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:33:50,169] 93.182.104.196 - - [14/Apr/2025 16:33:50] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:33:51,929] 93.182.104.196 - - [14/Apr/2025 16:33:51] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:33:54,144] 93.182.104.196 - - [14/Apr/2025 16:33:54] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:33:56,153] 93.182.104.196 - - [14/Apr/2025 16:33:56] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:33:57,897] 93.182.104.196 - - [14/Apr/2025 16:33:57] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:34:00,167] 93.182.104.196 - - [14/Apr/2025 16:34:00] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:34:01,953] 93.182.104.196 - - [14/Apr/2025 16:34:01] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:34:04,178] 93.182.104.196 - - [14/Apr/2025 16:34:04] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:34:05,954] 93.182.104.196 - - [14/Apr/2025 16:34:05] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:34:08,277] 93.182.104.196 - - [14/Apr/2025 16:34:08] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:34:09,946] 93.182.104.196 - - [14/Apr/2025 16:34:09] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:34:12,169] 93.182.104.196 - - [14/Apr/2025 16:34:12] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:34:13,901] 93.182.104.196 - - [14/Apr/2025 16:34:13] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:34:16,179] 93.182.104.196 - - [14/Apr/2025 16:34:16] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:34:17,924] 93.182.104.196 - - [14/Apr/2025 16:34:17] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:34:20,141] 93.182.104.196 - - [14/Apr/2025 16:34:20] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:34:22,192] 93.182.104.196 - - [14/Apr/2025 16:34:22] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:34:23,931] 93.182.104.196 - - [14/Apr/2025 16:34:23] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:34:26,218] 93.182.104.196 - - [14/Apr/2025 16:34:26] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:34:27,980] 93.182.104.196 - - [14/Apr/2025 16:34:27] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:34:30,170] 93.182.104.196 - - [14/Apr/2025 16:34:30] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:34:31,905] 93.182.104.196 - - [14/Apr/2025 16:34:31] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:34:34,214] 93.182.104.196 - - [14/Apr/2025 16:34:34] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:34:35,928] 93.182.104.196 - - [14/Apr/2025 16:34:35] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:34:38,574] 93.182.104.196 - - [14/Apr/2025 16:34:38] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:34:39,900] 93.182.104.196 - - [14/Apr/2025 16:34:39] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:34:42,168] 93.182.104.196 - - [14/Apr/2025 16:34:42] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:34:43,928] 93.182.104.196 - - [14/Apr/2025 16:34:43] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:34:46,222] 93.182.104.196 - - [14/Apr/2025 16:34:46] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:34:47,900] 93.182.104.196 - - [14/Apr/2025 16:34:47] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:34:50,159] 93.182.104.196 - - [14/Apr/2025 16:34:50] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:34:52,167] 93.182.104.196 - - [14/Apr/2025 16:34:52] "GET /progress/fiber HTTP/1.1" 200 -
+[2025-04-14 16:38:41,892] 93.182.104.196 - - [14/Apr/2025 16:38:41] "GET /extractor HTTP/1.1" 200 -
+[2025-04-14 16:39:11,726] 93.182.104.196 - - [14/Apr/2025 16:39:11] "GET /extractor HTTP/1.1" 200 -
+[2025-04-14 16:39:17,218] 93.182.104.196 - - [14/Apr/2025 16:39:17] "[32mPOST /extractor HTTP/1.1[0m" 302 -
+[2025-04-14 16:39:17,221] [THREAD] Background scraper started for niche: PEN, pages: 1
+[2025-04-14 16:39:17,221] [RUN] Scraper started...
+[2025-04-14 16:39:17,602] 93.182.104.196 - - [14/Apr/2025 16:39:17] "GET /results/PEN HTTP/1.1" 200 -
+[2025-04-14 16:39:18,328] 93.182.104.196 - - [14/Apr/2025 16:39:18] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:39:20,090] 93.182.104.196 - - [14/Apr/2025 16:39:20] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:39:22,321] 93.182.104.196 - - [14/Apr/2025 16:39:22] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:39:24,101] 93.182.104.196 - - [14/Apr/2025 16:39:24] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:39:26,334] 93.182.104.196 - - [14/Apr/2025 16:39:26] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:39:28,093] 93.182.104.196 - - [14/Apr/2025 16:39:28] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:39:30,313] 93.182.104.196 - - [14/Apr/2025 16:39:30] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:39:32,063] 93.182.104.196 - - [14/Apr/2025 16:39:32] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:39:34,309] 93.182.104.196 - - [14/Apr/2025 16:39:34] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:39:36,096] 93.182.104.196 - - [14/Apr/2025 16:39:36] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:39:37,887] [RUN] Collected 30 profile links.
+[2025-04-14 16:39:38,296] 93.182.104.196 - - [14/Apr/2025 16:39:38] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:39:40,317] 93.182.104.196 - - [14/Apr/2025 16:39:40] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:39:42,089] 93.182.104.196 - - [14/Apr/2025 16:39:42] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:39:44,392] 93.182.104.196 - - [14/Apr/2025 16:39:44] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:39:46,089] 93.182.104.196 - - [14/Apr/2025 16:39:46] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:39:48,330] 93.182.104.196 - - [14/Apr/2025 16:39:48] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:39:50,140] 93.182.104.196 - - [14/Apr/2025 16:39:50] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:39:52,344] 93.182.104.196 - - [14/Apr/2025 16:39:52] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:39:54,228] 93.182.104.196 - - [14/Apr/2025 16:39:54] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:39:56,391] 93.182.104.196 - - [14/Apr/2025 16:39:56] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:39:58,096] 93.182.104.196 - - [14/Apr/2025 16:39:58] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:40:00,322] 93.182.104.196 - - [14/Apr/2025 16:40:00] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:40:02,089] 93.182.104.196 - - [14/Apr/2025 16:40:02] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:40:04,291] 93.182.104.196 - - [14/Apr/2025 16:40:04] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:40:06,324] 93.182.104.196 - - [14/Apr/2025 16:40:06] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:40:08,050] 93.182.104.196 - - [14/Apr/2025 16:40:08] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:40:10,662] 93.182.104.196 - - [14/Apr/2025 16:40:10] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:40:12,106] 93.182.104.196 - - [14/Apr/2025 16:40:12] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:40:14,337] 93.182.104.196 - - [14/Apr/2025 16:40:14] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:40:16,093] 93.182.104.196 - - [14/Apr/2025 16:40:16] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:40:18,489] 93.182.104.196 - - [14/Apr/2025 16:40:18] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:40:20,090] 93.182.104.196 - - [14/Apr/2025 16:40:20] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:40:22,312] 93.182.104.196 - - [14/Apr/2025 16:40:22] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:40:24,041] 93.182.104.196 - - [14/Apr/2025 16:40:24] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:40:26,319] 93.182.104.196 - - [14/Apr/2025 16:40:26] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:40:28,061] 93.182.104.196 - - [14/Apr/2025 16:40:28] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:40:30,323] 93.182.104.196 - - [14/Apr/2025 16:40:30] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:40:32,049] 93.182.104.196 - - [14/Apr/2025 16:40:32] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:40:34,396] 93.182.104.196 - - [14/Apr/2025 16:40:34] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:40:36,099] 93.182.104.196 - - [14/Apr/2025 16:40:36] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:40:38,411] 93.182.104.196 - - [14/Apr/2025 16:40:38] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:40:40,090] 93.182.104.196 - - [14/Apr/2025 16:40:40] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:40:42,331] 93.182.104.196 - - [14/Apr/2025 16:40:42] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:40:44,321] 93.182.104.196 - - [14/Apr/2025 16:40:44] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:40:46,074] 93.182.104.196 - - [14/Apr/2025 16:40:46] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:40:48,314] 93.182.104.196 - - [14/Apr/2025 16:40:48] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:40:50,065] 93.182.104.196 - - [14/Apr/2025 16:40:50] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:40:52,320] 93.182.104.196 - - [14/Apr/2025 16:40:52] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:40:54,135] 93.182.104.196 - - [14/Apr/2025 16:40:54] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:40:56,388] 93.182.104.196 - - [14/Apr/2025 16:40:56] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:40:58,043] 93.182.104.196 - - [14/Apr/2025 16:40:58] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:41:00,297] 93.182.104.196 - - [14/Apr/2025 16:41:00] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:41:02,136] 93.182.104.196 - - [14/Apr/2025 16:41:02] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:41:04,397] 93.182.104.196 - - [14/Apr/2025 16:41:04] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:41:06,079] 93.182.104.196 - - [14/Apr/2025 16:41:06] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:41:08,311] 93.182.104.196 - - [14/Apr/2025 16:41:08] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:41:10,088] 93.182.104.196 - - [14/Apr/2025 16:41:10] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:41:12,319] 93.182.104.196 - - [14/Apr/2025 16:41:12] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:41:14,390] 93.182.104.196 - - [14/Apr/2025 16:41:14] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:41:16,045] 93.182.104.196 - - [14/Apr/2025 16:41:16] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:41:18,341] 93.182.104.196 - - [14/Apr/2025 16:41:18] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:41:20,054] 93.182.104.196 - - [14/Apr/2025 16:41:20] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:41:22,496] 93.182.104.196 - - [14/Apr/2025 16:41:22] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:41:24,057] 93.182.104.196 - - [14/Apr/2025 16:41:24] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:41:26,323] 93.182.104.196 - - [14/Apr/2025 16:41:26] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:41:28,092] 93.182.104.196 - - [14/Apr/2025 16:41:28] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:41:30,294] 93.182.104.196 - - [14/Apr/2025 16:41:30] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:41:32,389] 93.182.104.196 - - [14/Apr/2025 16:41:32] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:41:34,045] 93.182.104.196 - - [14/Apr/2025 16:41:34] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:41:36,276] 93.182.104.196 - - [14/Apr/2025 16:41:36] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:41:38,259] 93.182.104.196 - - [14/Apr/2025 16:41:38] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:41:40,307] 93.182.104.196 - - [14/Apr/2025 16:41:40] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:41:42,071] 93.182.104.196 - - [14/Apr/2025 16:41:42] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:41:44,310] 93.182.104.196 - - [14/Apr/2025 16:41:44] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:41:46,090] 93.182.104.196 - - [14/Apr/2025 16:41:46] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:41:48,315] 93.182.104.196 - - [14/Apr/2025 16:41:48] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:41:50,087] 93.182.104.196 - - [14/Apr/2025 16:41:50] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:41:52,303] 93.182.104.196 - - [14/Apr/2025 16:41:52] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:41:54,056] 93.182.104.196 - - [14/Apr/2025 16:41:54] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:41:56,413] 93.182.104.196 - - [14/Apr/2025 16:41:56] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:41:58,086] 93.182.104.196 - - [14/Apr/2025 16:41:58] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:42:00,315] 93.182.104.196 - - [14/Apr/2025 16:42:00] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:42:02,090] 93.182.104.196 - - [14/Apr/2025 16:42:02] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:42:04,332] 93.182.104.196 - - [14/Apr/2025 16:42:04] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:42:06,092] 93.182.104.196 - - [14/Apr/2025 16:42:06] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:42:08,322] 93.182.104.196 - - [14/Apr/2025 16:42:08] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:42:10,058] 93.182.104.196 - - [14/Apr/2025 16:42:10] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:42:12,351] 93.182.104.196 - - [14/Apr/2025 16:42:12] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:42:14,048] 93.182.104.196 - - [14/Apr/2025 16:42:14] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:42:16,316] 93.182.104.196 - - [14/Apr/2025 16:42:16] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:42:18,290] 93.182.104.196 - - [14/Apr/2025 16:42:18] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:42:20,604] 93.182.104.196 - - [14/Apr/2025 16:42:20] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:42:22,090] 93.182.104.196 - - [14/Apr/2025 16:42:22] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:42:24,396] 93.182.104.196 - - [14/Apr/2025 16:42:24] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:42:26,373] 93.182.104.196 - - [14/Apr/2025 16:42:26] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:42:28,065] 93.182.104.196 - - [14/Apr/2025 16:42:28] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:42:50,279] 93.182.104.196 - - [14/Apr/2025 16:42:50] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:42:52,361] 93.182.104.196 - - [14/Apr/2025 16:42:52] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:42:54,395] 93.182.104.196 - - [14/Apr/2025 16:42:54] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:42:56,490] 93.182.104.196 - - [14/Apr/2025 16:42:56] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:42:58,419] 93.182.104.196 - - [14/Apr/2025 16:42:58] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:43:00,396] 93.182.104.196 - - [14/Apr/2025 16:43:00] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:43:02,305] 93.182.104.196 - - [14/Apr/2025 16:43:02] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:43:04,345] 93.182.104.196 - - [14/Apr/2025 16:43:04] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:43:06,275] 93.182.104.196 - - [14/Apr/2025 16:43:06] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:43:08,435] 93.182.104.196 - - [14/Apr/2025 16:43:08] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:43:10,421] 93.182.104.196 - - [14/Apr/2025 16:43:10] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:43:12,428] 93.182.104.196 - - [14/Apr/2025 16:43:12] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:43:14,391] 93.182.104.196 - - [14/Apr/2025 16:43:14] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:43:16,390] 93.182.104.196 - - [14/Apr/2025 16:43:16] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:43:18,392] 93.182.104.196 - - [14/Apr/2025 16:43:18] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:43:20,310] 93.182.104.196 - - [14/Apr/2025 16:43:20] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:43:22,349] 93.182.104.196 - - [14/Apr/2025 16:43:22] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:43:24,283] 93.182.104.196 - - [14/Apr/2025 16:43:24] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:43:26,364] 93.182.104.196 - - [14/Apr/2025 16:43:26] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:43:28,336] 93.182.104.196 - - [14/Apr/2025 16:43:28] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:43:30,389] 93.182.104.196 - - [14/Apr/2025 16:43:30] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:43:32,297] 93.182.104.196 - - [14/Apr/2025 16:43:32] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:43:34,335] 93.182.104.196 - - [14/Apr/2025 16:43:34] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:43:36,393] 93.182.104.196 - - [14/Apr/2025 16:43:36] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:43:38,291] 93.182.104.196 - - [14/Apr/2025 16:43:38] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:43:40,271] 93.182.104.196 - - [14/Apr/2025 16:43:40] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:43:42,385] 93.182.104.196 - - [14/Apr/2025 16:43:42] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:43:44,384] 93.182.104.196 - - [14/Apr/2025 16:43:44] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:43:46,345] 93.182.104.196 - - [14/Apr/2025 16:43:46] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:43:48,402] 93.182.104.196 - - [14/Apr/2025 16:43:48] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:43:50,394] 93.182.104.196 - - [14/Apr/2025 16:43:50] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:43:52,422] 93.182.104.196 - - [14/Apr/2025 16:43:52] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:43:54,535] 93.182.104.196 - - [14/Apr/2025 16:43:54] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:43:56,372] 93.182.104.196 - - [14/Apr/2025 16:43:56] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:43:58,290] 93.182.104.196 - - [14/Apr/2025 16:43:58] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:44:00,280] 93.182.104.196 - - [14/Apr/2025 16:44:00] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:44:02,374] 93.182.104.196 - - [14/Apr/2025 16:44:02] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:44:04,365] 93.182.104.196 - - [14/Apr/2025 16:44:04] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:44:06,490] 93.182.104.196 - - [14/Apr/2025 16:44:06] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:44:08,392] 93.182.104.196 - - [14/Apr/2025 16:44:08] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:44:10,415] 93.182.104.196 - - [14/Apr/2025 16:44:10] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:44:12,324] 93.182.104.196 - - [14/Apr/2025 16:44:12] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:44:14,522] 93.182.104.196 - - [14/Apr/2025 16:44:14] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:44:16,433] 93.182.104.196 - - [14/Apr/2025 16:44:16] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:44:18,378] 93.182.104.196 - - [14/Apr/2025 16:44:18] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:44:20,432] 93.182.104.196 - - [14/Apr/2025 16:44:20] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:44:22,380] 93.182.104.196 - - [14/Apr/2025 16:44:22] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:44:24,492] 93.182.104.196 - - [14/Apr/2025 16:44:24] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:44:26,389] 93.182.104.196 - - [14/Apr/2025 16:44:26] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:44:28,419] 93.182.104.196 - - [14/Apr/2025 16:44:28] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:44:30,413] 93.182.104.196 - - [14/Apr/2025 16:44:30] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:44:32,292] 93.182.104.196 - - [14/Apr/2025 16:44:32] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:44:34,447] 93.182.104.196 - - [14/Apr/2025 16:44:34] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:44:36,271] 93.182.104.196 - - [14/Apr/2025 16:44:36] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:44:38,441] 93.182.104.196 - - [14/Apr/2025 16:44:38] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:44:40,408] 93.182.104.196 - - [14/Apr/2025 16:44:40] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:44:42,492] 93.182.104.196 - - [14/Apr/2025 16:44:42] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:44:44,412] 93.182.104.196 - - [14/Apr/2025 16:44:44] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:44:46,406] 93.182.104.196 - - [14/Apr/2025 16:44:46] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:44:48,398] 93.182.104.196 - - [14/Apr/2025 16:44:48] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:44:50,310] 93.182.104.196 - - [14/Apr/2025 16:44:50] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:44:52,432] 93.182.104.196 - - [14/Apr/2025 16:44:52] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:44:54,445] 93.182.104.196 - - [14/Apr/2025 16:44:54] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:44:56,417] 93.182.104.196 - - [14/Apr/2025 16:44:56] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:44:58,410] 93.182.104.196 - - [14/Apr/2025 16:44:58] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:45:00,394] 93.182.104.196 - - [14/Apr/2025 16:45:00] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:45:02,310] 93.182.104.196 - - [14/Apr/2025 16:45:02] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:45:04,317] 93.182.104.196 - - [14/Apr/2025 16:45:04] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:45:06,394] 93.182.104.196 - - [14/Apr/2025 16:45:06] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:45:08,350] 93.182.104.196 - - [14/Apr/2025 16:45:08] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:45:10,295] 93.182.104.196 - - [14/Apr/2025 16:45:10] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:45:12,433] 93.182.104.196 - - [14/Apr/2025 16:45:12] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:45:14,400] 93.182.104.196 - - [14/Apr/2025 16:45:14] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:45:16,368] 93.182.104.196 - - [14/Apr/2025 16:45:16] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:45:18,495] 93.182.104.196 - - [14/Apr/2025 16:45:18] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:45:20,390] 93.182.104.196 - - [14/Apr/2025 16:45:20] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:45:22,388] 93.182.104.196 - - [14/Apr/2025 16:45:22] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:45:24,422] 93.182.104.196 - - [14/Apr/2025 16:45:24] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:45:26,486] 93.182.104.196 - - [14/Apr/2025 16:45:26] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:45:28,331] 93.182.104.196 - - [14/Apr/2025 16:45:28] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:45:30,376] 93.182.104.196 - - [14/Apr/2025 16:45:30] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:45:32,393] 93.182.104.196 - - [14/Apr/2025 16:45:32] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:45:34,473] 93.182.104.196 - - [14/Apr/2025 16:45:34] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:45:36,397] 93.182.104.196 - - [14/Apr/2025 16:45:36] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:45:38,391] 93.182.104.196 - - [14/Apr/2025 16:45:38] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:45:40,389] 93.182.104.196 - - [14/Apr/2025 16:45:40] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:45:42,492] 93.182.104.196 - - [14/Apr/2025 16:45:42] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:45:44,821] 93.182.104.196 - - [14/Apr/2025 16:45:44] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:45:46,310] 93.182.104.196 - - [14/Apr/2025 16:45:46] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:45:48,294] 93.182.104.196 - - [14/Apr/2025 16:45:48] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:45:50,308] 93.182.104.196 - - [14/Apr/2025 16:45:50] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:45:52,491] 93.182.104.196 - - [14/Apr/2025 16:45:52] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:45:54,335] 93.182.104.196 - - [14/Apr/2025 16:45:54] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:45:56,493] 93.182.104.196 - - [14/Apr/2025 16:45:56] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:45:58,303] 93.182.104.196 - - [14/Apr/2025 16:45:58] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:46:00,426] 93.182.104.196 - - [14/Apr/2025 16:46:00] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:46:02,306] 93.182.104.196 - - [14/Apr/2025 16:46:02] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:46:04,316] 93.182.104.196 - - [14/Apr/2025 16:46:04] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:46:06,332] 93.182.104.196 - - [14/Apr/2025 16:46:06] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:46:08,363] 93.182.104.196 - - [14/Apr/2025 16:46:08] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:46:10,311] 93.182.104.196 - - [14/Apr/2025 16:46:10] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:46:12,332] 93.182.104.196 - - [14/Apr/2025 16:46:12] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:46:14,398] 93.182.104.196 - - [14/Apr/2025 16:46:14] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:46:16,389] 93.182.104.196 - - [14/Apr/2025 16:46:16] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:46:18,603] 93.182.104.196 - - [14/Apr/2025 16:46:18] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:46:20,365] 93.182.104.196 - - [14/Apr/2025 16:46:20] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:46:22,385] 93.182.104.196 - - [14/Apr/2025 16:46:22] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:46:24,324] 93.182.104.196 - - [14/Apr/2025 16:46:24] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:46:26,608] 93.182.104.196 - - [14/Apr/2025 16:46:26] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:46:28,370] 93.182.104.196 - - [14/Apr/2025 16:46:28] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:46:30,392] 93.182.104.196 - - [14/Apr/2025 16:46:30] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:46:32,314] 93.182.104.196 - - [14/Apr/2025 16:46:32] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:46:34,297] 93.182.104.196 - - [14/Apr/2025 16:46:34] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:46:37,591] 93.182.104.196 - - [14/Apr/2025 16:46:37] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:46:38,482] 93.182.104.196 - - [14/Apr/2025 16:46:38] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:46:40,420] 93.182.104.196 - - [14/Apr/2025 16:46:40] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:46:42,371] 93.182.104.196 - - [14/Apr/2025 16:46:42] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:46:44,529] 93.182.104.196 - - [14/Apr/2025 16:46:44] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:46:46,528] 93.182.104.196 - - [14/Apr/2025 16:46:46] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:46:48,391] 93.182.104.196 - - [14/Apr/2025 16:46:48] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:46:50,391] 93.182.104.196 - - [14/Apr/2025 16:46:50] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:46:52,492] 93.182.104.196 - - [14/Apr/2025 16:46:52] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:46:54,388] 93.182.104.196 - - [14/Apr/2025 16:46:54] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:46:56,484] 93.182.104.196 - - [14/Apr/2025 16:46:56] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:46:58,347] 93.182.104.196 - - [14/Apr/2025 16:46:58] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:47:00,362] 93.182.104.196 - - [14/Apr/2025 16:47:00] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:47:02,412] 93.182.104.196 - - [14/Apr/2025 16:47:02] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:47:04,370] 93.182.104.196 - - [14/Apr/2025 16:47:04] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:47:06,395] 93.182.104.196 - - [14/Apr/2025 16:47:06] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:47:08,493] 93.182.104.196 - - [14/Apr/2025 16:47:08] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:47:10,391] 93.182.104.196 - - [14/Apr/2025 16:47:10] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:47:12,293] 93.182.104.196 - - [14/Apr/2025 16:47:12] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:47:14,333] 93.182.104.196 - - [14/Apr/2025 16:47:14] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:47:16,362] 93.182.104.196 - - [14/Apr/2025 16:47:16] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:47:18,271] 93.182.104.196 - - [14/Apr/2025 16:47:18] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:47:20,335] 93.182.104.196 - - [14/Apr/2025 16:47:20] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:47:22,393] 93.182.104.196 - - [14/Apr/2025 16:47:22] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:47:24,392] 93.182.104.196 - - [14/Apr/2025 16:47:24] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:47:26,492] 93.182.104.196 - - [14/Apr/2025 16:47:26] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:47:28,327] 93.182.104.196 - - [14/Apr/2025 16:47:28] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:47:30,319] 93.182.104.196 - - [14/Apr/2025 16:47:30] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:47:32,341] 93.182.104.196 - - [14/Apr/2025 16:47:32] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:47:34,392] 93.182.104.196 - - [14/Apr/2025 16:47:34] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:47:36,390] 93.182.104.196 - - [14/Apr/2025 16:47:36] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:47:38,405] 93.182.104.196 - - [14/Apr/2025 16:47:38] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:47:40,695] 93.182.104.196 - - [14/Apr/2025 16:47:40] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:47:42,390] 93.182.104.196 - - [14/Apr/2025 16:47:42] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:47:44,298] 93.182.104.196 - - [14/Apr/2025 16:47:44] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:47:46,387] 93.182.104.196 - - [14/Apr/2025 16:47:46] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:47:48,429] 93.182.104.196 - - [14/Apr/2025 16:47:48] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:47:50,440] 93.182.104.196 - - [14/Apr/2025 16:47:50] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:47:52,424] 93.182.104.196 - - [14/Apr/2025 16:47:52] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:47:54,358] 93.182.104.196 - - [14/Apr/2025 16:47:54] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:47:56,395] 93.182.104.196 - - [14/Apr/2025 16:47:56] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:47:58,390] 93.182.104.196 - - [14/Apr/2025 16:47:58] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:48:00,318] 93.182.104.196 - - [14/Apr/2025 16:48:00] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:48:02,406] 93.182.104.196 - - [14/Apr/2025 16:48:02] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:48:04,491] 93.182.104.196 - - [14/Apr/2025 16:48:04] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:48:06,306] 93.182.104.196 - - [14/Apr/2025 16:48:06] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:48:08,318] 93.182.104.196 - - [14/Apr/2025 16:48:08] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:48:10,339] 93.182.104.196 - - [14/Apr/2025 16:48:10] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:48:12,361] 93.182.104.196 - - [14/Apr/2025 16:48:12] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:48:14,419] 93.182.104.196 - - [14/Apr/2025 16:48:14] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:48:16,403] 93.182.104.196 - - [14/Apr/2025 16:48:16] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:48:18,404] 93.182.104.196 - - [14/Apr/2025 16:48:18] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:48:20,390] 93.182.104.196 - - [14/Apr/2025 16:48:20] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:48:22,487] 93.182.104.196 - - [14/Apr/2025 16:48:22] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:48:24,442] 93.182.104.196 - - [14/Apr/2025 16:48:24] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:48:26,386] 93.182.104.196 - - [14/Apr/2025 16:48:26] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:48:28,337] 93.182.104.196 - - [14/Apr/2025 16:48:28] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:48:30,497] 93.182.104.196 - - [14/Apr/2025 16:48:30] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:48:32,334] 93.182.104.196 - - [14/Apr/2025 16:48:32] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:48:32,693] [RUN] Collected 30 company websites.
+[2025-04-14 16:48:34,454] 93.182.104.196 - - [14/Apr/2025 16:48:34] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:48:36,418] 93.182.104.196 - - [14/Apr/2025 16:48:36] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:48:38,361] 93.182.104.196 - - [14/Apr/2025 16:48:38] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:48:40,456] 93.182.104.196 - - [14/Apr/2025 16:48:40] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:48:42,366] 93.182.104.196 - - [14/Apr/2025 16:48:42] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:48:44,319] 93.182.104.196 - - [14/Apr/2025 16:48:44] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:48:46,285] 93.182.104.196 - - [14/Apr/2025 16:48:46] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:48:48,295] 93.182.104.196 - - [14/Apr/2025 16:48:48] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:48:50,340] 93.182.104.196 - - [14/Apr/2025 16:48:50] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:48:52,411] 93.182.104.196 - - [14/Apr/2025 16:48:52] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:48:54,596] 93.182.104.196 - - [14/Apr/2025 16:48:54] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:48:56,383] 93.182.104.196 - - [14/Apr/2025 16:48:56] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:48:58,327] 93.182.104.196 - - [14/Apr/2025 16:48:58] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:49:00,403] 93.182.104.196 - - [14/Apr/2025 16:49:00] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:49:02,417] 93.182.104.196 - - [14/Apr/2025 16:49:02] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:49:04,390] 93.182.104.196 - - [14/Apr/2025 16:49:04] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:49:06,377] 93.182.104.196 - - [14/Apr/2025 16:49:06] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:49:08,245] 93.182.104.196 - - [14/Apr/2025 16:49:08] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:49:10,312] 93.182.104.196 - - [14/Apr/2025 16:49:10] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:49:39,928] 93.182.104.196 - - [14/Apr/2025 16:49:39] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:49:39,928] 93.182.104.196 - - [14/Apr/2025 16:49:39] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:49:39,932] 93.182.104.196 - - [14/Apr/2025 16:49:39] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:49:39,933] 93.182.104.196 - - [14/Apr/2025 16:49:39] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:49:40,536] 93.182.104.196 - - [14/Apr/2025 16:49:40] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:49:40,538] 93.182.104.196 - - [14/Apr/2025 16:49:40] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:49:40,539] 93.182.104.196 - - [14/Apr/2025 16:49:40] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:49:40,539] 93.182.104.196 - - [14/Apr/2025 16:49:40] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:49:41,212] 93.182.104.196 - - [14/Apr/2025 16:49:41] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:49:41,217] 93.182.104.196 - - [14/Apr/2025 16:49:41] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:49:41,222] 93.182.104.196 - - [14/Apr/2025 16:49:41] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:49:41,218] 93.182.104.196 - - [14/Apr/2025 16:49:41] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:49:41,765] 93.182.104.196 - - [14/Apr/2025 16:49:41] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:49:41,767] 93.182.104.196 - - [14/Apr/2025 16:49:41] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:49:41,766] 93.182.104.196 - - [14/Apr/2025 16:49:41] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:49:42,261] 93.182.104.196 - - [14/Apr/2025 16:49:42] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:49:44,331] 93.182.104.196 - - [14/Apr/2025 16:49:44] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:49:46,261] 93.182.104.196 - - [14/Apr/2025 16:49:46] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:49:48,520] 93.182.104.196 - - [14/Apr/2025 16:49:48] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:49:50,427] 93.182.104.196 - - [14/Apr/2025 16:49:50] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:49:52,292] 93.182.104.196 - - [14/Apr/2025 16:49:52] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:49:54,348] 93.182.104.196 - - [14/Apr/2025 16:49:54] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:49:56,325] 93.182.104.196 - - [14/Apr/2025 16:49:56] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:49:58,272] 93.182.104.196 - - [14/Apr/2025 16:49:58] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:49:58,382] [DB] Inserting 38 records into database...
+[2025-04-14 16:49:58,393] [DB] Database insert complete.
+[2025-04-14 16:50:00,280] 93.182.104.196 - - [14/Apr/2025 16:50:00] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:50:02,346] 93.182.104.196 - - [14/Apr/2025 16:50:02] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:50:04,389] 93.182.104.196 - - [14/Apr/2025 16:50:04] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:50:06,347] 93.182.104.196 - - [14/Apr/2025 16:50:06] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:50:08,287] 93.182.104.196 - - [14/Apr/2025 16:50:08] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:50:10,420] 93.182.104.196 - - [14/Apr/2025 16:50:10] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:50:12,433] 93.182.104.196 - - [14/Apr/2025 16:50:12] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:50:14,334] 93.182.104.196 - - [14/Apr/2025 16:50:14] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:50:16,362] 93.182.104.196 - - [14/Apr/2025 16:50:16] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:50:18,329] 93.182.104.196 - - [14/Apr/2025 16:50:18] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:50:20,377] 93.182.104.196 - - [14/Apr/2025 16:50:20] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:50:44,323] 93.182.104.196 - - [14/Apr/2025 16:50:44] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:51:52,389] 93.182.104.196 - - [14/Apr/2025 16:51:52] "[32mGET /download/PEN HTTP/1.1[0m" 302 -
+[2025-04-14 16:51:52,825] 93.182.104.196 - - [14/Apr/2025 16:51:52] "GET /results/PEN HTTP/1.1" 200 -
+[2025-04-14 16:51:53,461] 93.182.104.196 - - [14/Apr/2025 16:51:53] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:52:11,225] 93.182.104.196 - - [14/Apr/2025 16:52:11] "[32mGET /download/PEN HTTP/1.1[0m" 302 -
+[2025-04-14 16:52:12,411] 93.182.104.196 - - [14/Apr/2025 16:52:12] "GET /results/PEN HTTP/1.1" 200 -
+[2025-04-14 16:52:13,208] 93.182.104.196 - - [14/Apr/2025 16:52:13] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:54:54,154] 93.182.104.196 - - [14/Apr/2025 16:54:54] "[32mGET /download/PEN HTTP/1.1[0m" 302 -
+[2025-04-14 16:54:54,387] 93.182.104.196 - - [14/Apr/2025 16:54:54] "GET /results/PEN HTTP/1.1" 200 -
+[2025-04-14 16:54:55,349] 93.182.104.196 - - [14/Apr/2025 16:54:55] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:56:58,301] 93.182.104.196 - - [14/Apr/2025 16:56:58] "[32mGET /download/PEN HTTP/1.1[0m" 302 -
+[2025-04-14 16:56:58,506] 93.182.104.196 - - [14/Apr/2025 16:56:58] "GET /results/PEN HTTP/1.1" 200 -
+[2025-04-14 16:56:59,101] 93.182.104.196 - - [14/Apr/2025 16:56:59] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:57:09,337] 93.182.104.196 - - [14/Apr/2025 16:57:09] "[32mGET /download/PEN HTTP/1.1[0m" 302 -
+[2025-04-14 16:57:09,561] 93.182.104.196 - - [14/Apr/2025 16:57:09] "GET /results/PEN HTTP/1.1" 200 -
+[2025-04-14 16:57:10,409] 93.182.104.196 - - [14/Apr/2025 16:57:10] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:57:38,313] 93.182.104.196 - - [14/Apr/2025 16:57:38] "GET /results/PEN HTTP/1.1" 200 -
+[2025-04-14 16:57:39,704] 93.182.104.196 - - [14/Apr/2025 16:57:39] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:57:44,734] 93.182.104.196 - - [14/Apr/2025 16:57:44] "[32mGET /download/PEN HTTP/1.1[0m" 302 -
+[2025-04-14 16:57:44,982] 93.182.104.196 - - [14/Apr/2025 16:57:44] "GET /results/PEN HTTP/1.1" 200 -
+[2025-04-14 16:57:45,769] 93.182.104.196 - - [14/Apr/2025 16:57:45] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 16:58:48,037] 93.182.104.196 - - [14/Apr/2025 16:58:48] "[32mGET /download/PEN HTTP/1.1[0m" 302 -
+[2025-04-14 16:58:49,719] 93.182.104.196 - - [14/Apr/2025 16:58:49] "GET /results/PEN HTTP/1.1" 200 -
+[2025-04-14 16:58:50,562] 93.182.104.196 - - [14/Apr/2025 16:58:50] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:03:05,959] 93.182.104.196 - - [14/Apr/2025 17:03:05] "GET /extractor HTTP/1.1" 200 -
+[2025-04-14 17:03:18,192] 93.182.104.196 - - [14/Apr/2025 17:03:18] "[32mPOST /extractor HTTP/1.1[0m" 302 -
+[2025-04-14 17:03:18,195] [THREAD] Background scraper started for niche: PEN, pages: 2
+[2025-04-14 17:03:18,195] [RUN] Scraper started...
+[2025-04-14 17:03:18,412] 93.182.104.196 - - [14/Apr/2025 17:03:18] "GET /results/PEN HTTP/1.1" 200 -
+[2025-04-14 17:03:19,094] 93.182.104.196 - - [14/Apr/2025 17:03:19] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:03:20,829] 93.182.104.196 - - [14/Apr/2025 17:03:20] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:03:23,093] 93.182.104.196 - - [14/Apr/2025 17:03:23] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:03:24,816] 93.182.104.196 - - [14/Apr/2025 17:03:24] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:03:27,129] 93.182.104.196 - - [14/Apr/2025 17:03:27] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:03:28,822] 93.182.104.196 - - [14/Apr/2025 17:03:28] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:03:31,191] 93.182.104.196 - - [14/Apr/2025 17:03:31] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:03:32,824] 93.182.104.196 - - [14/Apr/2025 17:03:32] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:03:35,092] 93.182.104.196 - - [14/Apr/2025 17:03:35] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:03:36,891] 93.182.104.196 - - [14/Apr/2025 17:03:36] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:03:39,098] 93.182.104.196 - - [14/Apr/2025 17:03:39] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:03:41,089] 93.182.104.196 - - [14/Apr/2025 17:03:41] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:03:43,093] 93.182.104.196 - - [14/Apr/2025 17:03:43] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:03:44,827] 93.182.104.196 - - [14/Apr/2025 17:03:44] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:03:47,093] 93.182.104.196 - - [14/Apr/2025 17:03:47] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:03:49,091] 93.182.104.196 - - [14/Apr/2025 17:03:49] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:03:50,810] 93.182.104.196 - - [14/Apr/2025 17:03:50] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:03:53,077] 93.182.104.196 - - [14/Apr/2025 17:03:53] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:03:54,860] 93.182.104.196 - - [14/Apr/2025 17:03:54] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:03:57,193] 93.182.104.196 - - [14/Apr/2025 17:03:57] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:03:57,595] [RUN] Collected 60 profile links.
+[2025-04-14 17:03:58,934] 93.182.104.196 - - [14/Apr/2025 17:03:58] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:04:01,117] 93.182.104.196 - - [14/Apr/2025 17:04:01] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:04:02,893] 93.182.104.196 - - [14/Apr/2025 17:04:02] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:04:05,125] 93.182.104.196 - - [14/Apr/2025 17:04:05] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:04:06,822] 93.182.104.196 - - [14/Apr/2025 17:04:06] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:04:09,079] 93.182.104.196 - - [14/Apr/2025 17:04:09] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:04:10,831] 93.182.104.196 - - [14/Apr/2025 17:04:10] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:04:13,110] 93.182.104.196 - - [14/Apr/2025 17:04:13] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:04:14,858] 93.182.104.196 - - [14/Apr/2025 17:04:14] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:04:17,095] 93.182.104.196 - - [14/Apr/2025 17:04:17] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:04:18,829] 93.182.104.196 - - [14/Apr/2025 17:04:18] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:04:21,089] 93.182.104.196 - - [14/Apr/2025 17:04:21] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:04:23,090] 93.182.104.196 - - [14/Apr/2025 17:04:23] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:04:24,890] 93.182.104.196 - - [14/Apr/2025 17:04:24] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:04:27,088] 93.182.104.196 - - [14/Apr/2025 17:04:27] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:04:28,840] 93.182.104.196 - - [14/Apr/2025 17:04:28] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:04:31,144] 93.182.104.196 - - [14/Apr/2025 17:04:31] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:04:32,871] 93.182.104.196 - - [14/Apr/2025 17:04:32] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:04:35,098] 93.182.104.196 - - [14/Apr/2025 17:04:35] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:04:36,816] 93.182.104.196 - - [14/Apr/2025 17:04:36] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:04:39,124] 93.182.104.196 - - [14/Apr/2025 17:04:39] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:04:40,916] 93.182.104.196 - - [14/Apr/2025 17:04:40] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:04:43,097] 93.182.104.196 - - [14/Apr/2025 17:04:43] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:04:44,838] 93.182.104.196 - - [14/Apr/2025 17:04:44] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:04:47,021] 93.182.104.196 - - [14/Apr/2025 17:04:47] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:04:49,022] 93.182.104.196 - - [14/Apr/2025 17:04:49] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:04:51,065] 93.182.104.196 - - [14/Apr/2025 17:04:51] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:04:53,095] 93.182.104.196 - - [14/Apr/2025 17:04:53] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:04:54,825] 93.182.104.196 - - [14/Apr/2025 17:04:54] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:04:57,000] 93.182.104.196 - - [14/Apr/2025 17:04:57] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:04:59,097] 93.182.104.196 - - [14/Apr/2025 17:04:59] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:05:01,104] 93.182.104.196 - - [14/Apr/2025 17:05:01] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:05:02,831] 93.182.104.196 - - [14/Apr/2025 17:05:02] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:05:05,096] 93.182.104.196 - - [14/Apr/2025 17:05:05] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:05:06,886] 93.182.104.196 - - [14/Apr/2025 17:05:06] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:05:09,104] 93.182.104.196 - - [14/Apr/2025 17:05:09] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:05:10,833] 93.182.104.196 - - [14/Apr/2025 17:05:10] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:05:13,098] 93.182.104.196 - - [14/Apr/2025 17:05:13] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:05:14,889] 93.182.104.196 - - [14/Apr/2025 17:05:14] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:05:17,095] 93.182.104.196 - - [14/Apr/2025 17:05:17] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:05:18,823] 93.182.104.196 - - [14/Apr/2025 17:05:18] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:05:21,070] 93.182.104.196 - - [14/Apr/2025 17:05:21] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:05:23,130] 93.182.104.196 - - [14/Apr/2025 17:05:23] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:05:24,838] 93.182.104.196 - - [14/Apr/2025 17:05:24] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:05:27,101] 93.182.104.196 - - [14/Apr/2025 17:05:27] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:05:28,857] 93.182.104.196 - - [14/Apr/2025 17:05:28] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:05:31,136] 93.182.104.196 - - [14/Apr/2025 17:05:31] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:05:32,813] 93.182.104.196 - - [14/Apr/2025 17:05:32] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:05:35,099] 93.182.104.196 - - [14/Apr/2025 17:05:35] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:05:36,889] 93.182.104.196 - - [14/Apr/2025 17:05:36] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:05:39,101] 93.182.104.196 - - [14/Apr/2025 17:05:39] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:05:40,830] 93.182.104.196 - - [14/Apr/2025 17:05:40] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:05:43,118] 93.182.104.196 - - [14/Apr/2025 17:05:43] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:05:44,864] 93.182.104.196 - - [14/Apr/2025 17:05:44] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:05:47,108] 93.182.104.196 - - [14/Apr/2025 17:05:47] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:05:48,889] 93.182.104.196 - - [14/Apr/2025 17:05:48] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:05:51,088] 93.182.104.196 - - [14/Apr/2025 17:05:51] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:05:52,827] 93.182.104.196 - - [14/Apr/2025 17:05:52] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:05:55,090] 93.182.104.196 - - [14/Apr/2025 17:05:55] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:05:56,829] 93.182.104.196 - - [14/Apr/2025 17:05:56] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:05:59,086] 93.182.104.196 - - [14/Apr/2025 17:05:59] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:06:01,116] 93.182.104.196 - - [14/Apr/2025 17:06:01] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:06:02,854] 93.182.104.196 - - [14/Apr/2025 17:06:02] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:06:05,108] 93.182.104.196 - - [14/Apr/2025 17:06:05] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:06:06,819] 93.182.104.196 - - [14/Apr/2025 17:06:06] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:06:09,186] 93.182.104.196 - - [14/Apr/2025 17:06:09] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:06:10,829] 93.182.104.196 - - [14/Apr/2025 17:06:10] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:06:13,100] 93.182.104.196 - - [14/Apr/2025 17:06:13] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:06:14,832] 93.182.104.196 - - [14/Apr/2025 17:06:14] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:06:17,018] 93.182.104.196 - - [14/Apr/2025 17:06:17] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:06:18,993] 93.182.104.196 - - [14/Apr/2025 17:06:18] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:06:21,075] 93.182.104.196 - - [14/Apr/2025 17:06:21] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:06:22,812] 93.182.104.196 - - [14/Apr/2025 17:06:22] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:06:25,093] 93.182.104.196 - - [14/Apr/2025 17:06:25] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:06:27,492] 93.182.104.196 - - [14/Apr/2025 17:06:27] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:06:29,695] 93.182.104.196 - - [14/Apr/2025 17:06:29] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:06:31,656] 93.182.104.196 - - [14/Apr/2025 17:06:31] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:06:33,700] 93.182.104.196 - - [14/Apr/2025 17:06:33] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:06:35,480] 93.182.104.196 - - [14/Apr/2025 17:06:35] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:06:37,650] 93.182.104.196 - - [14/Apr/2025 17:06:37] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:06:39,725] 93.182.104.196 - - [14/Apr/2025 17:06:39] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:06:41,491] 93.182.104.196 - - [14/Apr/2025 17:06:41] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:06:43,709] 93.182.104.196 - - [14/Apr/2025 17:06:43] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:06:45,490] 93.182.104.196 - - [14/Apr/2025 17:06:45] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:06:47,715] 93.182.104.196 - - [14/Apr/2025 17:06:47] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:06:49,782] 93.182.104.196 - - [14/Apr/2025 17:06:49] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:06:50,933] 93.182.104.196 - - [14/Apr/2025 17:06:50] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:06:53,100] 93.182.104.196 - - [14/Apr/2025 17:06:53] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:06:54,827] 93.182.104.196 - - [14/Apr/2025 17:06:54] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:06:57,096] 93.182.104.196 - - [14/Apr/2025 17:06:57] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:06:58,823] 93.182.104.196 - - [14/Apr/2025 17:06:58] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:07:01,102] 93.182.104.196 - - [14/Apr/2025 17:07:01] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:07:02,825] 93.182.104.196 - - [14/Apr/2025 17:07:02] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:07:05,088] 93.182.104.196 - - [14/Apr/2025 17:07:05] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:07:06,865] 93.182.104.196 - - [14/Apr/2025 17:07:06] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:07:09,097] 93.182.104.196 - - [14/Apr/2025 17:07:09] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:07:10,863] 93.182.104.196 - - [14/Apr/2025 17:07:10] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:07:13,086] 93.182.104.196 - - [14/Apr/2025 17:07:13] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:07:14,845] 93.182.104.196 - - [14/Apr/2025 17:07:14] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:07:17,095] 93.182.104.196 - - [14/Apr/2025 17:07:17] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:07:18,891] 93.182.104.196 - - [14/Apr/2025 17:07:18] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:07:21,115] 93.182.104.196 - - [14/Apr/2025 17:07:21] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:07:22,990] 93.182.104.196 - - [14/Apr/2025 17:07:22] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:07:25,090] 93.182.104.196 - - [14/Apr/2025 17:07:25] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:07:27,099] 93.182.104.196 - - [14/Apr/2025 17:07:27] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:07:28,824] 93.182.104.196 - - [14/Apr/2025 17:07:28] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:07:31,124] 93.182.104.196 - - [14/Apr/2025 17:07:31] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:07:32,891] 93.182.104.196 - - [14/Apr/2025 17:07:32] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:07:35,125] 93.182.104.196 - - [14/Apr/2025 17:07:35] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:07:36,827] 93.182.104.196 - - [14/Apr/2025 17:07:36] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:07:39,103] 93.182.104.196 - - [14/Apr/2025 17:07:39] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:07:40,921] 93.182.104.196 - - [14/Apr/2025 17:07:40] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:07:43,037] 93.182.104.196 - - [14/Apr/2025 17:07:43] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:07:45,092] 93.182.104.196 - - [14/Apr/2025 17:07:45] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:07:46,834] 93.182.104.196 - - [14/Apr/2025 17:07:46] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:07:49,035] 93.182.104.196 - - [14/Apr/2025 17:07:49] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:07:51,093] 93.182.104.196 - - [14/Apr/2025 17:07:51] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:07:52,831] 93.182.104.196 - - [14/Apr/2025 17:07:52] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:07:55,095] 93.182.104.196 - - [14/Apr/2025 17:07:55] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:07:56,828] 93.182.104.196 - - [14/Apr/2025 17:07:56] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:07:59,073] 93.182.104.196 - - [14/Apr/2025 17:07:59] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:08:00,854] 93.182.104.196 - - [14/Apr/2025 17:08:00] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:08:03,152] 93.182.104.196 - - [14/Apr/2025 17:08:03] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:08:05,141] 93.182.104.196 - - [14/Apr/2025 17:08:05] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:08:06,829] 93.182.104.196 - - [14/Apr/2025 17:08:06] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:08:09,101] 93.182.104.196 - - [14/Apr/2025 17:08:09] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:08:10,889] 93.182.104.196 - - [14/Apr/2025 17:08:10] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:08:13,134] 93.182.104.196 - - [14/Apr/2025 17:08:13] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:08:14,823] 93.182.104.196 - - [14/Apr/2025 17:08:14] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:08:17,133] 93.182.104.196 - - [14/Apr/2025 17:08:17] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:08:18,835] 93.182.104.196 - - [14/Apr/2025 17:08:18] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:08:21,085] 93.182.104.196 - - [14/Apr/2025 17:08:21] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:08:22,825] 93.182.104.196 - - [14/Apr/2025 17:08:22] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:08:25,049] 93.182.104.196 - - [14/Apr/2025 17:08:25] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:08:27,111] 93.182.104.196 - - [14/Apr/2025 17:08:27] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:08:28,825] 93.182.104.196 - - [14/Apr/2025 17:08:28] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:08:31,116] 93.182.104.196 - - [14/Apr/2025 17:08:31] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:08:32,835] 93.182.104.196 - - [14/Apr/2025 17:08:32] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:08:35,094] 93.182.104.196 - - [14/Apr/2025 17:08:35] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:08:36,828] 93.182.104.196 - - [14/Apr/2025 17:08:36] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:08:39,092] 93.182.104.196 - - [14/Apr/2025 17:08:39] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:08:40,825] 93.182.104.196 - - [14/Apr/2025 17:08:40] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:08:43,097] 93.182.104.196 - - [14/Apr/2025 17:08:43] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:08:44,817] 93.182.104.196 - - [14/Apr/2025 17:08:44] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:08:47,092] 93.182.104.196 - - [14/Apr/2025 17:08:47] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:08:48,890] 93.182.104.196 - - [14/Apr/2025 17:08:48] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:08:51,150] 93.182.104.196 - - [14/Apr/2025 17:08:51] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:08:52,842] 93.182.104.196 - - [14/Apr/2025 17:08:52] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:08:55,086] 93.182.104.196 - - [14/Apr/2025 17:08:55] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:08:56,832] 93.182.104.196 - - [14/Apr/2025 17:08:56] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:08:59,080] 93.182.104.196 - - [14/Apr/2025 17:08:59] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:09:00,834] 93.182.104.196 - - [14/Apr/2025 17:09:00] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:09:03,089] 93.182.104.196 - - [14/Apr/2025 17:09:03] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:09:05,135] 93.182.104.196 - - [14/Apr/2025 17:09:05] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:09:06,888] 93.182.104.196 - - [14/Apr/2025 17:09:06] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:09:09,085] 93.182.104.196 - - [14/Apr/2025 17:09:09] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:09:10,858] 93.182.104.196 - - [14/Apr/2025 17:09:10] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:09:13,098] 93.182.104.196 - - [14/Apr/2025 17:09:13] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:09:14,824] 93.182.104.196 - - [14/Apr/2025 17:09:14] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:09:17,098] 93.182.104.196 - - [14/Apr/2025 17:09:17] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:09:18,826] 93.182.104.196 - - [14/Apr/2025 17:09:18] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:09:21,100] 93.182.104.196 - - [14/Apr/2025 17:09:21] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:09:22,891] 93.182.104.196 - - [14/Apr/2025 17:09:22] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:09:25,105] 93.182.104.196 - - [14/Apr/2025 17:09:25] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:09:26,835] 93.182.104.196 - - [14/Apr/2025 17:09:26] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:09:29,097] 93.182.104.196 - - [14/Apr/2025 17:09:29] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:09:30,859] 93.182.104.196 - - [14/Apr/2025 17:09:30] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:09:33,088] 93.182.104.196 - - [14/Apr/2025 17:09:33] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:09:35,056] 93.182.104.196 - - [14/Apr/2025 17:09:35] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:09:37,091] 93.182.104.196 - - [14/Apr/2025 17:09:37] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:09:39,102] 93.182.104.196 - - [14/Apr/2025 17:09:39] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:09:40,890] 93.182.104.196 - - [14/Apr/2025 17:09:40] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:09:43,187] 93.182.104.196 - - [14/Apr/2025 17:09:43] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:09:44,828] 93.182.104.196 - - [14/Apr/2025 17:09:44] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:09:47,120] 93.182.104.196 - - [14/Apr/2025 17:09:47] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:09:48,863] 93.182.104.196 - - [14/Apr/2025 17:09:48] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:09:51,098] 93.182.104.196 - - [14/Apr/2025 17:09:51] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:09:53,448] 93.182.104.196 - - [14/Apr/2025 17:09:53] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:09:55,708] 93.182.104.196 - - [14/Apr/2025 17:09:55] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:09:57,487] 93.182.104.196 - - [14/Apr/2025 17:09:57] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:09:59,709] 93.182.104.196 - - [14/Apr/2025 17:09:59] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:10:01,738] 93.182.104.196 - - [14/Apr/2025 17:10:01] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:10:03,445] 93.182.104.196 - - [14/Apr/2025 17:10:03] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:10:05,642] 93.182.104.196 - - [14/Apr/2025 17:10:05] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:10:07,700] 93.182.104.196 - - [14/Apr/2025 17:10:07] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:10:09,722] 93.182.104.196 - - [14/Apr/2025 17:10:09] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:10:11,488] 93.182.104.196 - - [14/Apr/2025 17:10:11] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:10:13,719] 93.182.104.196 - - [14/Apr/2025 17:10:13] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:10:15,797] 93.182.104.196 - - [14/Apr/2025 17:10:15] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:10:17,446] 93.182.104.196 - - [14/Apr/2025 17:10:17] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:10:19,671] 93.182.104.196 - - [14/Apr/2025 17:10:19] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:10:21,709] 93.182.104.196 - - [14/Apr/2025 17:10:21] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:10:23,472] 93.182.104.196 - - [14/Apr/2025 17:10:23] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:10:25,709] 93.182.104.196 - - [14/Apr/2025 17:10:25] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:10:27,456] 93.182.104.196 - - [14/Apr/2025 17:10:27] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:10:29,710] 93.182.104.196 - - [14/Apr/2025 17:10:29] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:10:31,091] 93.182.104.196 - - [14/Apr/2025 17:10:31] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:10:32,892] 93.182.104.196 - - [14/Apr/2025 17:10:32] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:10:35,101] 93.182.104.196 - - [14/Apr/2025 17:10:35] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:10:36,894] 93.182.104.196 - - [14/Apr/2025 17:10:36] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:10:39,149] 93.182.104.196 - - [14/Apr/2025 17:10:39] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:10:40,852] 93.182.104.196 - - [14/Apr/2025 17:10:40] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:10:43,122] 93.182.104.196 - - [14/Apr/2025 17:10:43] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:10:44,836] 93.182.104.196 - - [14/Apr/2025 17:10:44] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:10:47,101] 93.182.104.196 - - [14/Apr/2025 17:10:47] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:10:48,895] 93.182.104.196 - - [14/Apr/2025 17:10:48] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:10:51,103] 93.182.104.196 - - [14/Apr/2025 17:10:51] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:10:52,828] 93.182.104.196 - - [14/Apr/2025 17:10:52] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:10:55,091] 93.182.104.196 - - [14/Apr/2025 17:10:55] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:10:56,840] 93.182.104.196 - - [14/Apr/2025 17:10:56] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:10:59,101] 93.182.104.196 - - [14/Apr/2025 17:10:59] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:11:00,826] 93.182.104.196 - - [14/Apr/2025 17:11:00] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:11:03,190] 93.182.104.196 - - [14/Apr/2025 17:11:03] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:11:05,033] 93.182.104.196 - - [14/Apr/2025 17:11:05] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:11:07,090] 93.182.104.196 - - [14/Apr/2025 17:11:07] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:11:08,890] 93.182.104.196 - - [14/Apr/2025 17:11:08] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:11:11,087] 93.182.104.196 - - [14/Apr/2025 17:11:11] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:11:13,097] 93.182.104.196 - - [14/Apr/2025 17:11:13] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:11:14,842] 93.182.104.196 - - [14/Apr/2025 17:11:14] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:11:17,147] 93.182.104.196 - - [14/Apr/2025 17:11:17] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:11:18,847] 93.182.104.196 - - [14/Apr/2025 17:11:18] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:11:21,097] 93.182.104.196 - - [14/Apr/2025 17:11:21] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:11:22,887] 93.182.104.196 - - [14/Apr/2025 17:11:22] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:11:25,090] 93.182.104.196 - - [14/Apr/2025 17:11:25] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:11:26,884] 93.182.104.196 - - [14/Apr/2025 17:11:26] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:11:29,027] 93.182.104.196 - - [14/Apr/2025 17:11:29] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:11:31,038] 93.182.104.196 - - [14/Apr/2025 17:11:31] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:11:33,142] 93.182.104.196 - - [14/Apr/2025 17:11:33] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:11:34,848] 93.182.104.196 - - [14/Apr/2025 17:11:34] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:11:37,408] 93.182.104.196 - - [14/Apr/2025 17:11:37] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:11:38,834] 93.182.104.196 - - [14/Apr/2025 17:11:38] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:11:41,016] 93.182.104.196 - - [14/Apr/2025 17:11:41] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:11:43,092] 93.182.104.196 - - [14/Apr/2025 17:11:43] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:11:45,111] 93.182.104.196 - - [14/Apr/2025 17:11:45] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:11:47,362] 93.182.104.196 - - [14/Apr/2025 17:11:47] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:11:48,934] 93.182.104.196 - - [14/Apr/2025 17:11:48] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:11:51,121] 93.182.104.196 - - [14/Apr/2025 17:11:51] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:11:52,840] 93.182.104.196 - - [14/Apr/2025 17:11:52] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:11:55,097] 93.182.104.196 - - [14/Apr/2025 17:11:55] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:11:56,890] 93.182.104.196 - - [14/Apr/2025 17:11:56] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:11:59,105] 93.182.104.196 - - [14/Apr/2025 17:11:59] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:12:00,888] 93.182.104.196 - - [14/Apr/2025 17:12:00] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:12:03,151] 93.182.104.196 - - [14/Apr/2025 17:12:03] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:12:04,839] 93.182.104.196 - - [14/Apr/2025 17:12:04] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:12:07,114] 93.182.104.196 - - [14/Apr/2025 17:12:07] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:12:09,096] 93.182.104.196 - - [14/Apr/2025 17:12:09] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:12:10,838] 93.182.104.196 - - [14/Apr/2025 17:12:10] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:12:13,097] 93.182.104.196 - - [14/Apr/2025 17:12:13] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:12:14,887] 93.182.104.196 - - [14/Apr/2025 17:12:14] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:12:17,102] 93.182.104.196 - - [14/Apr/2025 17:12:17] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:12:18,890] 93.182.104.196 - - [14/Apr/2025 17:12:18] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:12:21,094] 93.182.104.196 - - [14/Apr/2025 17:12:21] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:12:22,899] 93.182.104.196 - - [14/Apr/2025 17:12:22] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:12:25,007] 93.182.104.196 - - [14/Apr/2025 17:12:25] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:12:27,078] 93.182.104.196 - - [14/Apr/2025 17:12:27] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:12:29,120] 93.182.104.196 - - [14/Apr/2025 17:12:29] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:12:30,889] 93.182.104.196 - - [14/Apr/2025 17:12:30] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:12:34,186] 93.182.104.196 - - [14/Apr/2025 17:12:34] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:12:34,900] 93.182.104.196 - - [14/Apr/2025 17:12:34] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:12:37,081] 93.182.104.196 - - [14/Apr/2025 17:12:37] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:12:38,844] 93.182.104.196 - - [14/Apr/2025 17:12:38] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:12:41,083] 93.182.104.196 - - [14/Apr/2025 17:12:41] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:12:43,165] 93.182.104.196 - - [14/Apr/2025 17:12:43] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:12:44,851] 93.182.104.196 - - [14/Apr/2025 17:12:44] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:12:47,108] 93.182.104.196 - - [14/Apr/2025 17:12:47] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:12:48,911] 93.182.104.196 - - [14/Apr/2025 17:12:48] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:12:51,100] 93.182.104.196 - - [14/Apr/2025 17:12:51] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:12:52,833] 93.182.104.196 - - [14/Apr/2025 17:12:52] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:12:55,091] 93.182.104.196 - - [14/Apr/2025 17:12:55] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:12:56,833] 93.182.104.196 - - [14/Apr/2025 17:12:56] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:12:59,096] 93.182.104.196 - - [14/Apr/2025 17:12:59] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:13:00,828] 93.182.104.196 - - [14/Apr/2025 17:13:00] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:13:03,033] 93.182.104.196 - - [14/Apr/2025 17:13:03] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:13:05,089] 93.182.104.196 - - [14/Apr/2025 17:13:05] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:13:07,023] 93.182.104.196 - - [14/Apr/2025 17:13:07] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:13:09,111] 93.182.104.196 - - [14/Apr/2025 17:13:09] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:13:10,889] 93.182.104.196 - - [14/Apr/2025 17:13:10] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:13:13,260] 93.182.104.196 - - [14/Apr/2025 17:13:13] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:13:14,864] 93.182.104.196 - - [14/Apr/2025 17:13:14] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:13:17,091] 93.182.104.196 - - [14/Apr/2025 17:13:17] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:13:18,905] 93.182.104.196 - - [14/Apr/2025 17:13:18] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:13:21,192] 93.182.104.196 - - [14/Apr/2025 17:13:21] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:13:22,892] 93.182.104.196 - - [14/Apr/2025 17:13:22] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:13:25,290] 93.182.104.196 - - [14/Apr/2025 17:13:25] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:13:26,889] 93.182.104.196 - - [14/Apr/2025 17:13:26] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:13:29,088] 93.182.104.196 - - [14/Apr/2025 17:13:29] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:13:31,083] 93.182.104.196 - - [14/Apr/2025 17:13:31] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:13:33,045] 93.182.104.196 - - [14/Apr/2025 17:13:33] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:13:35,018] 93.182.104.196 - - [14/Apr/2025 17:13:35] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:13:37,087] 93.182.104.196 - - [14/Apr/2025 17:13:37] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:13:39,091] 93.182.104.196 - - [14/Apr/2025 17:13:39] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:13:41,103] 93.182.104.196 - - [14/Apr/2025 17:13:41] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:13:42,889] 93.182.104.196 - - [14/Apr/2025 17:13:42] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:13:45,118] 93.182.104.196 - - [14/Apr/2025 17:13:45] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:13:47,025] 93.182.104.196 - - [14/Apr/2025 17:13:47] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:13:49,073] 93.182.104.196 - - [14/Apr/2025 17:13:49] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:13:51,123] 93.182.104.196 - - [14/Apr/2025 17:13:51] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:13:52,849] 93.182.104.196 - - [14/Apr/2025 17:13:52] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:13:55,121] 93.182.104.196 - - [14/Apr/2025 17:13:55] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:13:56,895] 93.182.104.196 - - [14/Apr/2025 17:13:56] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:13:59,090] 93.182.104.196 - - [14/Apr/2025 17:13:59] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:14:02,092] 93.182.104.196 - - [14/Apr/2025 17:14:02] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:14:02,888] 93.182.104.196 - - [14/Apr/2025 17:14:02] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:14:05,050] 93.182.104.196 - - [14/Apr/2025 17:14:05] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:14:07,161] 93.182.104.196 - - [14/Apr/2025 17:14:07] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:14:08,847] 93.182.104.196 - - [14/Apr/2025 17:14:08] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:14:11,096] 93.182.104.196 - - [14/Apr/2025 17:14:11] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:14:12,850] 93.182.104.196 - - [14/Apr/2025 17:14:12] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:14:15,189] 93.182.104.196 - - [14/Apr/2025 17:14:15] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:14:17,119] 93.182.104.196 - - [14/Apr/2025 17:14:17] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:14:18,888] 93.182.104.196 - - [14/Apr/2025 17:14:18] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:14:21,034] 93.182.104.196 - - [14/Apr/2025 17:14:21] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:14:23,077] 93.182.104.196 - - [14/Apr/2025 17:14:23] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:14:25,102] 93.182.104.196 - - [14/Apr/2025 17:14:25] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:14:26,876] 93.182.104.196 - - [14/Apr/2025 17:14:26] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:14:29,041] 93.182.104.196 - - [14/Apr/2025 17:14:29] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:14:31,068] 93.182.104.196 - - [14/Apr/2025 17:14:31] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:14:33,118] 93.182.104.196 - - [14/Apr/2025 17:14:33] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:14:35,097] 93.182.104.196 - - [14/Apr/2025 17:14:35] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:14:36,889] 93.182.104.196 - - [14/Apr/2025 17:14:36] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:14:39,070] 93.182.104.196 - - [14/Apr/2025 17:14:39] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:14:41,155] 93.182.104.196 - - [14/Apr/2025 17:14:41] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:14:42,856] 93.182.104.196 - - [14/Apr/2025 17:14:42] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:14:45,110] 93.182.104.196 - - [14/Apr/2025 17:14:45] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:14:46,842] 93.182.104.196 - - [14/Apr/2025 17:14:46] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:14:49,110] 93.182.104.196 - - [14/Apr/2025 17:14:49] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:14:51,191] 93.182.104.196 - - [14/Apr/2025 17:14:51] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:14:52,896] 93.182.104.196 - - [14/Apr/2025 17:14:52] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:14:55,100] 93.182.104.196 - - [14/Apr/2025 17:14:55] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:14:57,045] 93.182.104.196 - - [14/Apr/2025 17:14:57] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:14:59,028] 93.182.104.196 - - [14/Apr/2025 17:14:59] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:15:01,066] 93.182.104.196 - - [14/Apr/2025 17:15:01] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:15:03,040] 93.182.104.196 - - [14/Apr/2025 17:15:03] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:15:05,059] 93.182.104.196 - - [14/Apr/2025 17:15:05] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:15:07,135] 93.182.104.196 - - [14/Apr/2025 17:15:07] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:15:08,895] 93.182.104.196 - - [14/Apr/2025 17:15:08] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:15:11,100] 93.182.104.196 - - [14/Apr/2025 17:15:11] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:15:12,834] 93.182.104.196 - - [14/Apr/2025 17:15:12] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:15:15,110] 93.182.104.196 - - [14/Apr/2025 17:15:15] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:15:17,058] 93.182.104.196 - - [14/Apr/2025 17:15:17] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:15:19,086] 93.182.104.196 - - [14/Apr/2025 17:15:19] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:15:21,047] 93.182.104.196 - - [14/Apr/2025 17:15:21] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:15:23,163] 93.182.104.196 - - [14/Apr/2025 17:15:23] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:15:25,110] 93.182.104.196 - - [14/Apr/2025 17:15:25] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:15:26,893] 93.182.104.196 - - [14/Apr/2025 17:15:26] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:15:29,108] 93.182.104.196 - - [14/Apr/2025 17:15:29] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:15:30,890] 93.182.104.196 - - [14/Apr/2025 17:15:30] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:15:33,113] 93.182.104.196 - - [14/Apr/2025 17:15:33] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:15:34,849] 93.182.104.196 - - [14/Apr/2025 17:15:34] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:15:37,104] 93.182.104.196 - - [14/Apr/2025 17:15:37] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:15:38,856] 93.182.104.196 - - [14/Apr/2025 17:15:38] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:15:41,166] 93.182.104.196 - - [14/Apr/2025 17:15:41] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:15:42,863] 93.182.104.196 - - [14/Apr/2025 17:15:42] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:15:45,101] 93.182.104.196 - - [14/Apr/2025 17:15:45] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:15:46,895] 93.182.104.196 - - [14/Apr/2025 17:15:46] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:15:49,133] 93.182.104.196 - - [14/Apr/2025 17:15:49] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:15:50,890] 93.182.104.196 - - [14/Apr/2025 17:15:50] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:15:53,103] 93.182.104.196 - - [14/Apr/2025 17:15:53] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:15:55,107] 93.182.104.196 - - [14/Apr/2025 17:15:55] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:15:56,863] 93.182.104.196 - - [14/Apr/2025 17:15:56] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:15:59,098] 93.182.104.196 - - [14/Apr/2025 17:15:59] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:16:20,891] 93.182.104.196 - - [14/Apr/2025 17:16:20] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:16:23,104] 93.182.104.196 - - [14/Apr/2025 17:16:23] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:16:25,193] 93.182.104.196 - - [14/Apr/2025 17:16:25] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:16:27,088] 93.182.104.196 - - [14/Apr/2025 17:16:27] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:16:29,144] 93.182.104.196 - - [14/Apr/2025 17:16:29] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:16:31,078] 93.182.104.196 - - [14/Apr/2025 17:16:31] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:16:33,135] 93.182.104.196 - - [14/Apr/2025 17:16:33] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:16:35,056] 93.182.104.196 - - [14/Apr/2025 17:16:35] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:16:37,069] 93.182.104.196 - - [14/Apr/2025 17:16:37] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:16:39,192] 93.182.104.196 - - [14/Apr/2025 17:16:39] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:16:41,123] 93.182.104.196 - - [14/Apr/2025 17:16:41] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:16:43,190] 93.182.104.196 - - [14/Apr/2025 17:16:43] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:16:45,106] 93.182.104.196 - - [14/Apr/2025 17:16:45] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:16:47,168] 93.182.104.196 - - [14/Apr/2025 17:16:47] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:16:49,143] 93.182.104.196 - - [14/Apr/2025 17:16:49] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:16:51,197] 93.182.104.196 - - [14/Apr/2025 17:16:51] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:16:53,144] 93.182.104.196 - - [14/Apr/2025 17:16:53] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:16:55,050] 93.182.104.196 - - [14/Apr/2025 17:16:55] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:16:57,089] 93.182.104.196 - - [14/Apr/2025 17:16:57] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:16:59,189] 93.182.104.196 - - [14/Apr/2025 17:16:59] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:17:01,217] 93.182.104.196 - - [14/Apr/2025 17:17:01] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:17:03,200] 93.182.104.196 - - [14/Apr/2025 17:17:03] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:17:05,053] 93.182.104.196 - - [14/Apr/2025 17:17:05] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:17:07,216] 93.182.104.196 - - [14/Apr/2025 17:17:07] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:17:09,177] 93.182.104.196 - - [14/Apr/2025 17:17:09] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:17:11,239] 93.182.104.196 - - [14/Apr/2025 17:17:11] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:17:13,491] 93.182.104.196 - - [14/Apr/2025 17:17:13] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:17:15,111] 93.182.104.196 - - [14/Apr/2025 17:17:15] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:17:17,190] 93.182.104.196 - - [14/Apr/2025 17:17:17] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:17:19,104] 93.182.104.196 - - [14/Apr/2025 17:17:19] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:17:21,173] 93.182.104.196 - - [14/Apr/2025 17:17:21] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:17:23,306] 93.182.104.196 - - [14/Apr/2025 17:17:23] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:17:25,157] 93.182.104.196 - - [14/Apr/2025 17:17:25] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:17:27,043] 93.182.104.196 - - [14/Apr/2025 17:17:27] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:17:29,137] 93.182.104.196 - - [14/Apr/2025 17:17:29] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:17:31,200] 93.182.104.196 - - [14/Apr/2025 17:17:31] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:17:33,190] 93.182.104.196 - - [14/Apr/2025 17:17:33] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:17:35,191] 93.182.104.196 - - [14/Apr/2025 17:17:35] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:17:37,188] 93.182.104.196 - - [14/Apr/2025 17:17:37] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:17:39,070] 93.182.104.196 - - [14/Apr/2025 17:17:39] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:17:41,122] 93.182.104.196 - - [14/Apr/2025 17:17:41] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:17:43,068] 93.182.104.196 - - [14/Apr/2025 17:17:43] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:17:45,119] 93.182.104.196 - - [14/Apr/2025 17:17:45] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:17:47,197] 93.182.104.196 - - [14/Apr/2025 17:17:47] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:17:49,130] 93.182.104.196 - - [14/Apr/2025 17:17:49] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:17:51,189] 93.182.104.196 - - [14/Apr/2025 17:17:51] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:17:53,099] 93.182.104.196 - - [14/Apr/2025 17:17:53] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:17:55,194] 93.182.104.196 - - [14/Apr/2025 17:17:55] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:17:58,138] 93.182.104.196 - - [14/Apr/2025 17:17:58] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:17:59,156] 93.182.104.196 - - [14/Apr/2025 17:17:59] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:18:01,781] 93.182.104.196 - - [14/Apr/2025 17:18:01] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:18:03,682] 93.182.104.196 - - [14/Apr/2025 17:18:03] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:18:05,704] 93.182.104.196 - - [14/Apr/2025 17:18:05] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:18:07,795] 93.182.104.196 - - [14/Apr/2025 17:18:07] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:18:09,703] 93.182.104.196 - - [14/Apr/2025 17:18:09] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:18:11,809] 93.182.104.196 - - [14/Apr/2025 17:18:11] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:18:13,692] 93.182.104.196 - - [14/Apr/2025 17:18:13] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:18:15,730] 93.182.104.196 - - [14/Apr/2025 17:18:15] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:18:17,671] 93.182.104.196 - - [14/Apr/2025 17:18:17] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:18:19,726] 93.182.104.196 - - [14/Apr/2025 17:18:19] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:18:21,787] 93.182.104.196 - - [14/Apr/2025 17:18:21] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:18:23,723] 93.182.104.196 - - [14/Apr/2025 17:18:23] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:18:25,778] 93.182.104.196 - - [14/Apr/2025 17:18:25] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:18:27,739] 93.182.104.196 - - [14/Apr/2025 17:18:27] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:18:29,702] 93.182.104.196 - - [14/Apr/2025 17:18:29] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:18:31,707] 93.182.104.196 - - [14/Apr/2025 17:18:31] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:18:33,755] 93.182.104.196 - - [14/Apr/2025 17:18:33] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:18:35,890] 93.182.104.196 - - [14/Apr/2025 17:18:35] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:18:37,792] 93.182.104.196 - - [14/Apr/2025 17:18:37] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:18:39,697] 93.182.104.196 - - [14/Apr/2025 17:18:39] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:18:41,735] 93.182.104.196 - - [14/Apr/2025 17:18:41] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:18:43,717] 93.182.104.196 - - [14/Apr/2025 17:18:43] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:18:45,736] 93.182.104.196 - - [14/Apr/2025 17:18:45] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:18:47,792] 93.182.104.196 - - [14/Apr/2025 17:18:47] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:18:49,736] 93.182.104.196 - - [14/Apr/2025 17:18:49] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:18:51,712] 93.182.104.196 - - [14/Apr/2025 17:18:51] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:18:53,693] 93.182.104.196 - - [14/Apr/2025 17:18:53] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:18:55,789] 93.182.104.196 - - [14/Apr/2025 17:18:55] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:18:57,788] 93.182.104.196 - - [14/Apr/2025 17:18:57] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:19:25,792] 93.182.104.196 - - [14/Apr/2025 17:19:25] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:19:35,404] 93.182.104.196 - - [14/Apr/2025 17:19:35] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:19:37,071] 93.182.104.196 - - [14/Apr/2025 17:19:37] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:19:39,098] 93.182.104.196 - - [14/Apr/2025 17:19:39] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:19:41,126] 93.182.104.196 - - [14/Apr/2025 17:19:41] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:19:43,201] 93.182.104.196 - - [14/Apr/2025 17:19:43] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:19:45,189] 93.182.104.196 - - [14/Apr/2025 17:19:45] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:19:47,195] 93.182.104.196 - - [14/Apr/2025 17:19:47] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:19:49,114] 93.182.104.196 - - [14/Apr/2025 17:19:49] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:19:51,064] 93.182.104.196 - - [14/Apr/2025 17:19:51] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:19:53,187] 93.182.104.196 - - [14/Apr/2025 17:19:53] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:19:55,198] 93.182.104.196 - - [14/Apr/2025 17:19:55] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:19:57,191] 93.182.104.196 - - [14/Apr/2025 17:19:57] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:19:59,188] 93.182.104.196 - - [14/Apr/2025 17:19:59] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:20:01,101] 93.182.104.196 - - [14/Apr/2025 17:20:01] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:20:03,215] 93.182.104.196 - - [14/Apr/2025 17:20:03] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:20:05,107] 93.182.104.196 - - [14/Apr/2025 17:20:05] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:20:07,155] 93.182.104.196 - - [14/Apr/2025 17:20:07] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:20:09,112] 93.182.104.196 - - [14/Apr/2025 17:20:09] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:20:11,160] 93.182.104.196 - - [14/Apr/2025 17:20:11] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:20:13,188] 93.182.104.196 - - [14/Apr/2025 17:20:13] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:20:15,193] 93.182.104.196 - - [14/Apr/2025 17:20:15] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:20:17,187] 93.182.104.196 - - [14/Apr/2025 17:20:17] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:20:19,094] 93.182.104.196 - - [14/Apr/2025 17:20:19] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:20:21,375] 93.182.104.196 - - [14/Apr/2025 17:20:21] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:20:23,132] 93.182.104.196 - - [14/Apr/2025 17:20:23] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:20:25,165] 93.182.104.196 - - [14/Apr/2025 17:20:25] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:20:27,122] 93.182.104.196 - - [14/Apr/2025 17:20:27] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:20:29,033] 93.182.104.196 - - [14/Apr/2025 17:20:29] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:20:31,107] 93.182.104.196 - - [14/Apr/2025 17:20:31] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:20:33,188] 93.182.104.196 - - [14/Apr/2025 17:20:33] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:20:35,109] 93.182.104.196 - - [14/Apr/2025 17:20:35] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:20:37,201] 93.182.104.196 - - [14/Apr/2025 17:20:37] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:20:39,231] 93.182.104.196 - - [14/Apr/2025 17:20:39] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:20:41,136] 93.182.104.196 - - [14/Apr/2025 17:20:41] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:20:43,124] 93.182.104.196 - - [14/Apr/2025 17:20:43] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:20:45,171] 93.182.104.196 - - [14/Apr/2025 17:20:45] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:20:47,192] 93.182.104.196 - - [14/Apr/2025 17:20:47] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:20:49,219] 93.182.104.196 - - [14/Apr/2025 17:20:49] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:20:51,192] 93.182.104.196 - - [14/Apr/2025 17:20:51] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:20:53,227] 93.182.104.196 - - [14/Apr/2025 17:20:53] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:20:55,165] 93.182.104.196 - - [14/Apr/2025 17:20:55] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:20:57,146] 93.182.104.196 - - [14/Apr/2025 17:20:57] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:20:59,180] 93.182.104.196 - - [14/Apr/2025 17:20:59] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:21:01,253] 93.182.104.196 - - [14/Apr/2025 17:21:01] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:21:03,051] 93.182.104.196 - - [14/Apr/2025 17:21:03] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:21:05,201] 93.182.104.196 - - [14/Apr/2025 17:21:05] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:21:07,116] 93.182.104.196 - - [14/Apr/2025 17:21:07] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:21:09,313] 93.182.104.196 - - [14/Apr/2025 17:21:09] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:21:11,190] 93.182.104.196 - - [14/Apr/2025 17:21:11] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:21:13,087] 93.182.104.196 - - [14/Apr/2025 17:21:13] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:21:15,165] 93.182.104.196 - - [14/Apr/2025 17:21:15] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:21:17,213] 93.182.104.196 - - [14/Apr/2025 17:21:17] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:21:19,143] 93.182.104.196 - - [14/Apr/2025 17:21:19] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:21:21,202] 93.182.104.196 - - [14/Apr/2025 17:21:21] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:21:23,293] 93.182.104.196 - - [14/Apr/2025 17:21:23] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:21:25,394] 93.182.104.196 - - [14/Apr/2025 17:21:25] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:21:27,130] 93.182.104.196 - - [14/Apr/2025 17:21:27] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:21:29,125] 93.182.104.196 - - [14/Apr/2025 17:21:29] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:21:31,197] 93.182.104.196 - - [14/Apr/2025 17:21:31] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:21:33,173] 93.182.104.196 - - [14/Apr/2025 17:21:33] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:21:35,261] 93.182.104.196 - - [14/Apr/2025 17:21:35] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:21:37,234] 93.182.104.196 - - [14/Apr/2025 17:21:37] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:21:39,218] 93.182.104.196 - - [14/Apr/2025 17:21:39] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:21:41,193] 93.182.104.196 - - [14/Apr/2025 17:21:41] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:21:43,188] 93.182.104.196 - - [14/Apr/2025 17:21:43] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:21:45,131] 93.182.104.196 - - [14/Apr/2025 17:21:45] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:21:47,090] 93.182.104.196 - - [14/Apr/2025 17:21:47] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:21:49,136] 93.182.104.196 - - [14/Apr/2025 17:21:49] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:21:51,201] 93.182.104.196 - - [14/Apr/2025 17:21:51] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:21:53,330] 93.182.104.196 - - [14/Apr/2025 17:21:53] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:21:55,102] 93.182.104.196 - - [14/Apr/2025 17:21:55] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:21:56,008] [RUN] Collected 58 company websites.
+[2025-04-14 17:21:57,184] 93.182.104.196 - - [14/Apr/2025 17:21:57] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:21:59,060] 93.182.104.196 - - [14/Apr/2025 17:21:59] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:22:01,117] 93.182.104.196 - - [14/Apr/2025 17:22:01] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:22:03,101] 93.182.104.196 - - [14/Apr/2025 17:22:03] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:22:05,119] 93.182.104.196 - - [14/Apr/2025 17:22:05] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:22:07,067] 93.182.104.196 - - [14/Apr/2025 17:22:07] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:22:09,108] 93.182.104.196 - - [14/Apr/2025 17:22:09] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:22:11,072] 93.182.104.196 - - [14/Apr/2025 17:22:11] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:22:13,096] 93.182.104.196 - - [14/Apr/2025 17:22:13] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:22:15,053] 93.182.104.196 - - [14/Apr/2025 17:22:15] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:22:42,703] 93.182.104.196 - - [14/Apr/2025 17:22:42] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:22:42,705] 93.182.104.196 - - [14/Apr/2025 17:22:42] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:22:42,704] 93.182.104.196 - - [14/Apr/2025 17:22:42] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:22:42,707] 93.182.104.196 - - [14/Apr/2025 17:22:42] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:22:42,706] 93.182.104.196 - - [14/Apr/2025 17:22:42] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:22:43,203] 93.182.104.196 - - [14/Apr/2025 17:22:43] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:22:43,207] 93.182.104.196 - - [14/Apr/2025 17:22:43] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:22:43,210] 93.182.104.196 - - [14/Apr/2025 17:22:43] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:22:43,211] 93.182.104.196 - - [14/Apr/2025 17:22:43] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:22:43,211] 93.182.104.196 - - [14/Apr/2025 17:22:43] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:22:43,610] 93.182.104.196 - - [14/Apr/2025 17:22:43] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:22:43,684] 93.182.104.196 - - [14/Apr/2025 17:22:43] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:22:43,687] 93.182.104.196 - - [14/Apr/2025 17:22:43] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:22:43,689] 93.182.104.196 - - [14/Apr/2025 17:22:43] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:22:45,147] 93.182.104.196 - - [14/Apr/2025 17:22:45] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:22:47,136] 93.182.104.196 - - [14/Apr/2025 17:22:47] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:22:49,143] 93.182.104.196 - - [14/Apr/2025 17:22:49] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:22:51,106] 93.182.104.196 - - [14/Apr/2025 17:22:51] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:22:53,143] 93.182.104.196 - - [14/Apr/2025 17:22:53] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:22:55,086] 93.182.104.196 - - [14/Apr/2025 17:22:55] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:22:57,133] 93.182.104.196 - - [14/Apr/2025 17:22:57] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:22:59,076] 93.182.104.196 - - [14/Apr/2025 17:22:59] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:23:01,150] 93.182.104.196 - - [14/Apr/2025 17:23:01] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:23:03,114] 93.182.104.196 - - [14/Apr/2025 17:23:03] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:23:05,115] 93.182.104.196 - - [14/Apr/2025 17:23:05] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:23:07,167] 93.182.104.196 - - [14/Apr/2025 17:23:07] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:23:09,132] 93.182.104.196 - - [14/Apr/2025 17:23:09] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:23:11,158] 93.182.104.196 - - [14/Apr/2025 17:23:11] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:23:13,113] 93.182.104.196 - - [14/Apr/2025 17:23:13] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:23:15,156] 93.182.104.196 - - [14/Apr/2025 17:23:15] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:23:17,104] 93.182.104.196 - - [14/Apr/2025 17:23:17] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:23:19,166] 93.182.104.196 - - [14/Apr/2025 17:23:19] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:23:21,069] 93.182.104.196 - - [14/Apr/2025 17:23:21] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:23:23,165] 93.182.104.196 - - [14/Apr/2025 17:23:23] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:23:25,092] 93.182.104.196 - - [14/Apr/2025 17:23:25] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:23:27,051] 93.182.104.196 - - [14/Apr/2025 17:23:27] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:23:27,186] [DB] Inserting 57 records into database...
+[2025-04-14 17:23:27,203] [DB] Database insert complete.
+[2025-04-14 17:23:29,049] 93.182.104.196 - - [14/Apr/2025 17:23:29] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:23:31,153] 93.182.104.196 - - [14/Apr/2025 17:23:31] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:23:33,069] 93.182.104.196 - - [14/Apr/2025 17:23:33] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:23:35,145] 93.182.104.196 - - [14/Apr/2025 17:23:35] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:23:37,046] 93.182.104.196 - - [14/Apr/2025 17:23:37] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:23:39,226] 93.182.104.196 - - [14/Apr/2025 17:23:39] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:23:41,164] 93.182.104.196 - - [14/Apr/2025 17:23:41] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:23:43,043] 93.182.104.196 - - [14/Apr/2025 17:23:43] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:23:45,083] 93.182.104.196 - - [14/Apr/2025 17:23:45] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:23:47,088] 93.182.104.196 - - [14/Apr/2025 17:23:47] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:23:49,142] 93.182.104.196 - - [14/Apr/2025 17:23:49] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:26:41,782] 93.182.104.196 - - [14/Apr/2025 17:26:41] "[32mGET /download/PEN HTTP/1.1[0m" 302 -
+[2025-04-14 17:26:42,037] 93.182.104.196 - - [14/Apr/2025 17:26:42] "GET /results/PEN HTTP/1.1" 200 -
+[2025-04-14 17:26:43,130] 93.182.104.196 - - [14/Apr/2025 17:26:43] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:29:19,621] 93.182.104.196 - - [14/Apr/2025 17:29:19] "GET /results/PEN HTTP/1.1" 200 -
+[2025-04-14 17:29:20,321] 93.182.104.196 - - [14/Apr/2025 17:29:20] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:29:27,824] 93.182.104.196 - - [14/Apr/2025 17:29:27] "[32mGET /download/PEN HTTP/1.1[0m" 302 -
+[2025-04-14 17:29:28,081] 93.182.104.196 - - [14/Apr/2025 17:29:28] "GET /results/PEN HTTP/1.1" 200 -
+[2025-04-14 17:29:28,906] 93.182.104.196 - - [14/Apr/2025 17:29:28] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:29:35,836] 93.182.104.196 - - [14/Apr/2025 17:29:35] "[32mGET /download/PEN HTTP/1.1[0m" 302 -
+[2025-04-14 17:29:36,099] 93.182.104.196 - - [14/Apr/2025 17:29:36] "GET /results/PEN HTTP/1.1" 200 -
+[2025-04-14 17:29:37,612] 93.182.104.196 - - [14/Apr/2025 17:29:37] "GET /progress/PEN HTTP/1.1" 200 -
+[2025-04-14 17:37:31,901] 93.182.104.196 - - [14/Apr/2025 17:37:31] "[32mGET /download/PEN HTTP/1.1[0m" 302 -
+[2025-04-14 17:37:32,117] 93.182.104.196 - - [14/Apr/2025 17:37:32] "GET /results/PEN HTTP/1.1" 200 -
+[2025-04-14 17:37:33,115] 93.182.104.196 - - [14/Apr/2025 17:37:33] "GET /progress/PEN HTTP/1.1" 200 -

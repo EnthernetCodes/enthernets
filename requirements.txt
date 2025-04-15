@@ -1,0 +1,8 @@
+flask
+flask-admin
+flask-sqlalchemy
+requests
+selenium
+bs4
+tqdm
+webdriver-manager

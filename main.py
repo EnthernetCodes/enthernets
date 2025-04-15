@@ -1,10 +1,11 @@
-from flask import Flask, request, render_template, redirect, url_for, send_file, flash
+from flask import Flask, request, render_template, redirect, url_for, send_file, flash, jsonify
 from flask_sqlalchemy import SQLAlchemy
 import csv
 import requests
 import os
 from datetime import datetime
 import json
+from concurrent.futures import ThreadPoolExecutor
 from m import (
     scrape_company_details,
     export_to_csv,
@@ -40,6 +41,8 @@ class ScrapedCompany(db.Model):
 from threading import Thread
 import logging
 
+executor = ThreadPoolExecutor(max_workers=2)  # You can adjust this number
+
 def background_scrape(niche, max_pages):
     # Setup log file
     log_path = f"{niche}_log.txt"
@@ -56,7 +59,8 @@ def background_scrape(niche, max_pages):
     try:
         log(f"[THREAD] Background scraper started for niche: {niche}, pages: {max_pages}")
         scraped_data = run_scraper(niche, max_pages, log=log)
-
+        print(f"Querying database for niche: {niche}")
+#        print(f"Found {len(results_data)} results.")
         log(f"[DB] Inserting {len(scraped_data)} records into database...")
         with app.app_context():
             for entry in scraped_data:
@@ -66,6 +70,7 @@ def background_scrape(niche, max_pages):
                     website=entry["Website"],
                     emails=", ".join(entry["Emails"])
                 )
+                print(f"Saving record: {new_record}")
                 db.session.add(new_record)
             db.session.commit()
         log("[DB] Database insert complete.")
@@ -79,17 +84,27 @@ def background_scrape(niche, max_pages):
         progress["current_stage"] = error_msg
         save_json(progress, f"progress_{niche}.json")
 
-@app.route("/progress/<niche>")
+'''@app.route("/progress/<niche>")
 def progress(niche):
     progress_file = f"progress_{niche}.json"
     if os.path.exists(progress_file):
         with open(progress_file, "r") as f:
             return f.read()
     return {"niche": niche, "current_stage": "Not started", "progress_detail": ""}
+'''
+
+@app.route("/progress/<niche>")
+def progress(niche):
+    progress_file = f"progress_{niche}.json"
+    if os.path.exists(progress_file):
+        with open(progress_file, "r") as f:
+            content = f.read()
+            return jsonify(json.loads(content))  # Ensure it returns a valid JSON response
+    return jsonify({"niche": niche, "current_stage": "Not started", "progress_detail": ""})
 
 @app.route("/")
 def home():
-    return render_template("index.html")
+    return render_template("extractor.html")
 
 @app.route("/extractor", methods=["GET", "POST"])
 def index():
@@ -101,8 +116,9 @@ def index():
         save_json({"niche": niche, "current_stage": "Starting...", "progress_detail": ""}, f"progress_{niche}.json")
 
         # Launch background scraper
-        thread = Thread(target=background_scrape, args=(niche, max_pages))
-        thread.start()
+        executor.submit(background_scrape, niche, max_pages)
+#        thread = Thread(target=background_scrape, args=(niche, max_pages))
+#        thread.start()
 
         # Redirect to progress page
         return redirect(url_for("results", niche=niche))
@@ -119,7 +135,27 @@ def view_logs(niche):
         content = "Log file not found."
     return f"<pre style='white-space: pre-wrap; background: #111; color: #0f0; padding: 1rem;'>{content}</pre>"
 
+@app.route("/results/<niche>")
+def results(niche):
+    csv_file = f"data/{niche}_scraped_companies.csv"
+    email_file = f"data/{niche}_emails.csv"
+    progress_file = f"progress_{niche}.json"
 
+    results_data = ScrapedCompany.query.filter_by(niche=niche).all()
+    print(f"Querying database for niche: {niche}")
+    print(f"Found {len(results_data)} results.")
+
+    progress = {"niche": niche, "current_stage": "Complete", "progress_detail": ""}
+    if os.path.exists(progress_file):
+        with open(progress_file, 'r') as file:
+            content = file.read().strip()
+            if content:
+                progress.update(json.loads(content))
+            else:
+                print(f"⚠️ Progress file {progress_file} is empty.")
+
+    return render_template("results.html", results_data=results_data, progress=progress)
+'''
 @app.route("/results/<niche>")
 def results(niche):
     csv_file = f"data/{niche}_scraped_companies.csv"
@@ -138,7 +174,7 @@ def results(niche):
               print(f"⚠️ Progress file {progress_file} is empty.")
 
     return render_template("results.html", results_data=results_data, progress=progress)
-
+'''
 @app.route("/download/<niche>")
 def download(niche):
     email_file = f"data/{niche}_emails.csv"
@@ -156,4 +192,4 @@ def all_data():
 if __name__ == "__main__":
     with app.app_context():
         db.create_all()
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=5000, debug=True)

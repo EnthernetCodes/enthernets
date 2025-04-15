@@ -9,12 +9,16 @@ from webdriver_manager.chrome import ChromeDriverManager
 import json
 import time
 import os
+import tempfile
+import uuid
+import shutil
 
 class EuropagesScraper:
     def __init__(self, niche: str, max_pages: int, headless: bool = True):
         self.niche = niche
         self.max_pages = max_pages
         self.base_url = "https://www.europages.co.uk/en/search"
+        self.user_data_dir = None
         self.browser = self.init_browser(headless)
         self.profile_links = []
         self.company_websites = {}
@@ -23,7 +27,23 @@ class EuropagesScraper:
         chrome_options = Options()
         if headless:
             chrome_options.add_argument("--headless")
-        service = Service(ChromeDriverManager().install())
+            chrome_options.add_argument("--no-sandbox")
+            chrome_options.add_argument("--no-sandbox")
+            chrome_options.add_argument("--disable-dev-shm-usage")
+            chrome_options.add_argument("--remote-debugging-port=9222")
+            chrome_options.add_argument("--disable-gpu")
+
+            # ✅ Create a unique user data dir every time
+            self.user_data_dir = os.path.join(tempfile.gettempdir(), str(uuid.uuid4()))
+            if os.path.exists(self.user_data_dir):
+                shutil.rmtree(self.user_data_dir)
+            os.makedirs(self.user_data_dir)
+            chrome_options.add_argument(f"--user-data-dir={self.user_data_dir}")
+
+        # ✅ Ensure correct path to ChromeDriver
+        service = Service("/usr/bin/chromedriver")  # Adjust if needed
+        service_log_path="chromedriver.log"
+
         browser = webdriver.Chrome(service=service, options=chrome_options)
         browser.implicitly_wait(10)
         return browser
@@ -85,4 +105,23 @@ class EuropagesScraper:
             json.dump(data, f, indent=4)
 
     def close(self):
+        if self.browser:
+            try:
+                self.browser.quit()
+            except Exception as e:
+                print(f"[WARN] Failed to close browser: {e}")
+        if self.user_data_dir and os.path.exists(self.user_data_dir):
+            try:
+                shutil.rmtree(self.user_data_dir)
+            except Exception as e:
+                print(f"[WARN] Failed to remove temp user data dir: {e}")
+'''
+    def close(self):
         self.browser.quit()
+        # Clean up the user data dir
+        try:
+            if self.user_data_dir and os.path.exists(self.user_data_dir):
+                shutil.rmtree(self.user_data_dir)
+        except Exception as e:
+            print(f"[WARN] Could not clean up user data dir: {e}")
+'''

@@ -1,0 +1,5 @@
+{
+    "niche": "fiber",
+    "current_stage": "[ERROR] Scraping failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+    "progress_detail": ""
+}

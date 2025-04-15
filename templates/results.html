@@ -101,6 +101,7 @@
 
     <script>
         let progressCheckDone = false;
+        let intervalId;
 
         function showToast(message) {
             const toast = document.getElementById("toast");
@@ -111,22 +112,38 @@
             }, 3000);
         }
 
+        function displayLogMessage(message) {
+            const statusElement = document.getElementById("current-stage");
+            statusElement.textContent = message;
+        }
+
         function fetchProgress() {
             fetch(`/progress/{{ progress.niche }}`)
                 .then(response => response.json())
                 .then(data => {
-                    document.getElementById("current-stage").textContent = data.current_stage;
+                    displayLogMessage(data.current_stage);
 
-                    if (data.current_stage === "Complete" && !progressCheckDone) {
-                        progressCheckDone = true;
-                        document.getElementById("working-indicator").style.display = "none";
-                        document.getElementById("results-section").style.display = "block";
-                        showToast("✅ Scraping Complete!");
+                    // Stop polling when scraping is complete or errored
+                    if (data.current_stage === "Complete" || data.current_stage.includes("Error")) {
+                        clearInterval(intervalId);  // Stop polling
+                        if (data.current_stage === "Complete" && !progressCheckDone) {
+                            progressCheckDone = true;
+                            document.getElementById("working-indicator").style.display = "none";
+                            document.getElementById("results-section").style.display = "block";
+                            showToast("✅ Scraping Complete!");
+                        } else {
+                            showToast("❌ Scraping Failed!");
+                        }
                     }
+                })
+                .catch(error => {
+                    console.error("Error fetching progress:", error);
+                    clearInterval(intervalId);  // Stop polling in case of fetch error
+                    showToast("❌ Failed to fetch progress");
                 });
         }
 
-        setInterval(fetchProgress, 2000);
+        intervalId = setInterval(fetchProgress, 2000);
         fetchProgress();
     </script>
 </body>
